@@ -1,0 +1,200 @@
+(For all changelogs please check the folder in the modpack root)
+Changelogs were merged. See changes of Version [0.1b03] below.
+
+Current Version [0.1b04] [05.17.2023]
+
+[In progress] Debugging missing files on debug side? (It's possible the pack will get re-uploaded, until this issue is fixed for sure).
+[This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, too. Will be marked as resolved once I can't reproduce the issue on my side anymore.]
+
+Changed a bunch of export settings on dev side.
+
+ 
+Config updates
+
+BetterTitleScreen
+BetterCompatibilityChecker
+
+Version [0.1b03] [05.15.2023]
+
+WARNING! If you are upgrading, make a "/backup snapshot [filenameHere]" in-game BEFORE you upgrade.
+Villages: Special caution. If you have a halfway chunk loaded village, please reveal it entirely BEFORE proceeding! Things might break otherwise. Rule of thumb is to expand until you see neither new buildings nor pathways.
+
+New mods added.
+
+Currently there is an issue with Hopper+ and Canary. Bug report pending. Custom Quests is not supported for 1.18.2 yet, so we gotta wait patiently. Others see below.
+
+ 
+**Performance mods**
+
+Fastload Reforged
+Modernfix
+LazyDFU
+BetterFPSDist
+Rubidium
+Canary
+Starlight - deactivate this mod if your light level based monster farms don't work correctly, it might increase performance issues concerning lighting, though! Alternatively replace any slab blocks with full blocks.
+
+We might still see a longer startup time, that's because the Modpack grew a bunch since V[0.1b02]! Also, the background is now... Slightly off scale. I'm sorry this is just temporary :-< I hope, at least.
+
+ 
+**Expansion mods**
+
+Open Loader + including a new folder for modpack resources (custom tips WIP).
+Seamless loading screen - displays how your world looked like when you last left the game (restart client if it doesn't work).
+Better Title Screen - some Modpack info (might be replaced in the future)
+ManyIdeasHalloween
+ManyIdeasChristmas - some festivity fun!
+StructureCompass - find structures easily. Let me know if you have issues, might be a bug.
+SaveSettings - hopefully you can keep your modpack settings from this update on. Let me know if there are problems.
+TrafficPlus
+Teerth's Traffic Control - two mods to enhance city building setups.
+PuzzlesLib
+Sophisticated Storage - we all love storages.
+ConnectedGlass - no more need for optifine to build huge pretty glass walls/floors.
+DurabilityTooltip - you can see your durability in figures now
+Chunkloaders - load chunks while you're on vacation, be careful to not overdo it, pals.
+Village Artifacts/Villagertools - more items to aid your interactin with villagers.
+Villager Names - Is that Bob or Rob? Well, now you know for sure!
+FemaleVillagers - Say hello to Bob's wife, Suzannah. She's a Guard.
+Productive Villagers - Yes store that loot for us.
+King Villager - Maybe, just maybe Rob is a King now.
+Mushroom villager - Ugga ugga? Shroom. All shroom. Emerald. Good. Ugga. Bonk Zombie ugga.
+Libraryferret
+Better village - This mod is enhancing village buildings. Larger, different. Maybe prepare to fill up some holes.
+Areas - Name your fave places!
+Random World Name - Garden of Loneliness, Kingdom of Fire, and more! Just press the button!
+Random Village Names - Nantwich is now a village name.
+CobbleForDays - Tired of mining for your World forge? Craft this nifty device and grind begone! Or... build something with it.
+Priority Target - Mining in the dungeons can be frightening. Do they see you? Do they not? Confusion? No longer. Target found.
+Toasty Coins - maybe you are playing with friends. Have some coins to make trading toastier.
+Barista/Barsita - Oh yes we have a logo now. How are your FPS doing up there? (Yes, an hour got 100 minutes now, derp derp.)
+Serene Seasons - You know that one. Right?
+Seasonhud - It's... spring! hooray!
+Sereneseasonfix - /gamerule DoDaylightCycle false - stay in your fave season forever <3 (Hopefully)
+AdaptivePerformanceTweaks
+-> core
+-> player - logging in and getting shot by mobs? No problem, you are immune until you can see what's going on. Just... don't forget your favorite lighting device.
+Hexerei - Simsalabim! I have no idea, but let's have some fun with Witchcraft!
+Minecard - I had to. I summon: Creeper!
+Random Mailbox - Defeated the Wither and wondering what to do next? Craft this cool Mailbox and get suuurpriiiised every day!
+Cobbled Paths - Because paths are cool.
+Brb/Better recipe book - Keep your inventory centered. And some more shtuff.
+Better Beacon Placement
+Better Conduit Placement - No more struggle. Enjoy!
+Better Crates - I kid you not, another way to store your items! Up to... was it 114 slots? Noiice.
+NoCube's better smoker - Hehehe poisoned potato stew... shhhh.
+hplus/hopper+ - upwards we go! Watch the video tutorial on their page owo [It's currently incompatible sadly, but I hope the issue gets fixed eventually]
+Flytre lib
+Better taskbar - Ever wondered how Minecraft is progressing when loading? Now you can see it in your taskbar, too.
+NoCube's better Frogs - Ribbit, ribbit.
+NoCube's better fletching table - a bit more handy than Vanilla, dontcha think?
+Better logs - Maybe you wanted this, too.
+Diagonal Fences - Round pens are now possible, woop woop!
+Quark Oddities - I don't know, maybe you were missing this addon? I added it, just in case.
+HammerLib
+CustomLAN - Are you playing LAN sessions and hate the ever changing LAN port? You can configure it now, hope this helps.
+Custom Quests - Shhhh. I am preparing a bunch of things for this. [needs 1.18.2 port, can't wait for it]
+Konkrete - Ehh, a library I think?
+Fancy Menu - Another thing you will see soon. Hehe. But not now. I'm busy hunting bugs.
+Fm Animation Maker - I suppose you understand what I need it for.
+Better Beekeeping - I waited long for this one. Bzzzzz.
+Explorer's Compass - Another way to find stuff.
+NetherportalFix - No idea if this is a problem, but now we are safe... Right?
+Sit - If I fits, I sits.
+CTM = Connected Textures Mod - Whelp. Hi in the domain.
+Chipped - A friend for each block ;)
+FramedBlocks - What was that with Irises?
+CraftPresence - Want your friends to know when you play this cool new Modpack? Hehe, all set up. (A very warm Thank You to CDAGaming for kindly and patiently helping out configure the basics. I'm looking forward to your next mod update!)
+Modelfix - No more spaces where they don't belong. Hopefully.
+EntityCollisionFPSFix - I love fixes. Wbu?
+Max Health Fix - I was not sure whether that makes food less justified, but no more hangry unga bunga when joining world. Turn it off in your mods profile if you love to nomnom some stew on login.
+FixMySpawnR - Might reduce lags on servers, have fun! (Use redstone torches to activate them, it was?)
+AxolotlBucketFix - Colors everywhere wooh!
+Experience Bug Fix - Is that a thing?
+Not Enough Crashes - "Hi, I'm Minecraft and I'm a Crashaholic".
+Apotheosis - Thanks for the suggestion! (Currently incompatible with Astikor Carts, we are trying to retrieve minecraft:pig once more... Fix? Yeah, I got one. Replacing AC with a Fork of mine.)
+Tumbleweed - Re-added, after it's not the only AC incompatibility and should work again, for now. Deserts become more plenty of opportunities now, hope you enjoy!
+AstikorCarts [Horse Carts] - [PigCrash Fix][Fork] - Verph found a fix on their TFC fork, a resource I could apply on my fork from the origin. Yay. Forkin cool.
+UnusualGifts - Place them on a frame to put them on the floor. Hehe~.
+
+ 
+**Added Shaderpack(s)**
+
+Complementary Reimagined - there might still be blocks that don't behave how they should. Find a leaf/grass block that is off? Press F3 and send me the item tag + a screenshot of the object. I might not be able to fix everything, as some blocks behave in an... inconvenient way. Let me know if you prefer wrong movement or wrong shading. (Wish I could fix this myself but I can't :') )
+
+ 
+**Added Resourcepacks**
+
+Kitchenfloorfix.zip
+A resource pack to mend a compatibility bug between FramedBlocks and the 1.18 version of CookingForBlockheads concerning kitchen tiles. Warm thanks to XFactHD and BlayTheNinth for resolving/helping to resolve this issue and giving me additional guidance to mend the bug this way. Sounds are not working sadly, live with carpet-y floor tiles.
+
+ 
+Mod Updates
+
+Just Enough Items(JEI)
+Journeymap
+Sophisticated Core
+Sophisticated Backpacks
+SuperMartijn642's Core Lib
+ManyIdeas Core
+So Many Enchants
+FancyMenu [Forge]
+Dynamic Trees +
+Dynamic Trees
+Dynamic Trees Quark
+Dynamic Trees BOP
+Architectury API (Fabric/Forge)
+Chunk By Chunk
+Pehkui
+Sooty Chimneys
+Carryon
+MovingElevators
+Supplementaries
+Placebo
+Waystones
+SeasonHUD
+Texels Paintings (new paintings, wooh!)
+Farmer's Delight
+ChinjufuMod +JapaneseBlock
+
+ 
+Inactive Mods (Aka I either wait for an update or implement them in the next update, instead.)
+
+Hopper+ (Canary incompatibility)
+Custom Quests (Waiting for Update)
+Better Loading Screen (Waiting for Mod rewrite, thanks to Shedaniel for working on it) -> DLS is installed only to keep the BG implemented that I worked on, it will be removed later, once BLS is back up. Sorry.
+Better Mending/[BEM] Ultimate Enchantment Management (Waiting for mod rewrite after serious crash issues were found, thanks to TheOneWithBlueEyes for scheduling it)
+Real Time Mod (Waiting for option to globally disable day/night cycle synch and just work with day/month/year instead)
+
+Mod Replacements
+
+Astikor Carts [Horse Carts] -> Astikor Carts [Horse Carts][PigCrash Fix][Fork] (by myself, xDonnervogelx)
+Reason: Astikor Carts is incompatible with a bunch of mods because of a line of code that... deletes something I don't understand, causing the error message: "Failed to create entity minecraft:pig". The TFC fork of Astikor Carts dev Verph found a fix that I forked from to mend the issue on the original mod. I had to upload it as a new mod and thus we cannot use the original fork of AstikorCarts anymore. In case that pau101 sees my changes and updates the main repository and publishes the mod for 1.18.2, I will restore our reference back to the original mod, but until then we will use this one. There is a chance that your old items from AstikorCarts are not transferred when changing this mod to my version, though I took utmost care and only changed two scripts (mainly the mod version and name and the conflicting function). I can possibly not fix any other issues (I am trying to fix the config not working though, no promises) as... I don't know Java well enough. I'm sorry about that. I did the best I could here so let's just hope it'll be no huge problem for us whatsoever.
+
+ 
+Mods that will be removed in the future
+
+Merge Enchantments
+Universal Enchants
+Reason: [BEM] Ultimate Enchantment Management that used to be Better Mending will fully replace their functionality.
+Your world will possibly not see any effects. Save a backup just to be sure.
+Depending on incompatibilities, I will also consider to remove other mods in the future, we'll see how it goes.
+
+ 
+Config updates
+
+BLS -> DLS
+FancyMenu
+Deactivated a mod config overlay in Main Menu, for cosmetic reasons.
+Barista
+Better Compatibility Checker
+Better title screen
+AdaptivePerformanceTweaks - player
+Others (possibly just minor changes)
+
+ 
+Other future changes
+I plan to add 2-3 mods that are unrelated to the rest of mods to enhance a few things. I yet don't know whether I'll be able to only backport the frogs and allays from 1.19, without the monsters or biome alteration, so I will need more time to figure things out. I'm also working on a mod port from 1.7.x to 1.18.2 which is quite a headache, on top of the AC fix that still doesn't work with the config because... eh issues.
+KubeJS and LootJS will be very likely added NEXT update, as well as SWEM! Yes it's finally time for me to prepare the big update (hah as if this one was smol).
+Since some things in SWEM will require new chunk generation, please don't venture too far or you'll have to travel a good while until you find the ores you'll need to level up your horses.
+Depending on where else I'll hit a wall and lose my teeth trying to fix the issue, it'll take a bit before I can update again. I'll be working on it, don't you worry. I just take a bit of time that's all. In doubt, I have to change things again and cry in a corner, lmao. Just kidding (hopefully).
