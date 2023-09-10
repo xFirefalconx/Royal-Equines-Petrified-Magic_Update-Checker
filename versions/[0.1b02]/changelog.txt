@@ -1,0 +1,27 @@
+Version [0.1b02]
+
+Moved .README.txt and .TUTORIAL.txt to a designated folder so it doesn't get removed during development.
+
+Relocated a replaced mod that caused issues on CF side.
+Better Mending - Quilt/Fabric/Forge now is Better Mending - Forge.
+Changed BM config, Mending is now obtainable in Enchantment Table.
+Special thanks to TheOneWithBlueEyes for the reupload.
+
+Adjustments and further testing to ensure there is no compatibility issue at the current point in time. For more details on changes, view Changelog V[0.1b01]. View initial changelog for known issues.
+
+(There is a "°changelogs"folder in the modpack root if you wonder where to find it)
+
+Mod Updates
+
+Spells & Shields
+Snow! Real Magic! (Forge)
+Natural Decor Mod
+NoCube's Villagers Sell Animals (new German translation, provided by myself)
+Configured
+Pehkui
+Dynamic Trees
+Dynamic Trees +
+SuperMartijn642's Core Lib
+Moving Elevators
+Bookshelf
+More Overlays Updated
