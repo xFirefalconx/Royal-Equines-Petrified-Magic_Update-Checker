@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+/*
+      {
+      "id": "[0.1b02]",
+      "releasedAt": 1680109306000
+    },
+    {
+      "id": "[0.1b04]",
+      "releasedAt": 1684360925000
+    },
+    {
+      "id": "[1.1b05]",
+      "releasedAt": 1687785978000
+    },
+*/
+    {
+      "id": "[1.1b06]",
+      "releasedAt": 9999999999999
+    }
+  ]
+}
