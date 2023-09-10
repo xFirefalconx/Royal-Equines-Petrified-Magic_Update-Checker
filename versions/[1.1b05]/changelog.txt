@@ -1,0 +1,202 @@
+Version [1.1b05] [06.25.2023]
+
+[In progress] Debugging missing files on debug side? 
+[This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, too. Will be marked as resolved once I can't reproduce the issue on my side anymore.]
+
+New mods added. 
+
+**Expansion mods**
+Star Worm Decor Mod(SWDM) - Garden picket fence!
+Star Worm Equestrian Mod(SWEM) - Cantazarite ore! You will know what I mean :D I can't wait for the next updates! Keep going SWEM team!
+Star Worm Lighting Mod(SWLM) - And a hungry little light moth. 
+Star Worm Plus Mod(SWPM) - Now with paint filler. 
+Star Worm Economy Mod (SWEconM) - A neat little wallet!
+
+Trumpet Skeleton - Re-Calcified - The ominous doot in the night is back mah friends! (Loved the mod in RLCraft)
+Xtra Arrows - Yess fun stuff! I use: Torch arrow!
+All Arrows Infinity Fix - Infinity is OP but I sure don't care :D
+Just Enough Professions (JEP) - Look up villager professions like a pro. 
+Delightful - I want some Matcha Ice Cream!
+Create Deco - More bricks for decoration, because we can!
+Cultural Delights - Squids!
+Jade Addons (Forge) - Make jade more accurate. 
+Italian Delight (A Farmer's Delight Add-on) - Now with my favorite Pizza type! Yummy.
+Comforts (Fabric/Forge/Quilt) - Hammock and sleeping bag. Have a good rest.
+Let Sleeping Dogs Lie (Forge) - Your companion can now doze if you go for some errands.
+Locksmith - Tired of friends entering your property uninvited? Use this neat lock and key. Just don't... drop it.
+Ex Machinis - Finally lean back and let technology do the hard work. Automate your chunk restoration!
+Refined Pipes - No sieve without some energy. There we go. 
+Spice of Life: Apple Pie Edition - I want some pie, now that I had a hundred stacks of carrots. 
+Apple Crates - Sell your items in crates. 
+Panoramica [Forge] - I used this to create the new Menu Screen! Did you build something cool? Set your FOV to 91 and press F1, then F4. Share your panoramas with your friends!
+World Type Lock - Because I intended things to be this way. Deactivate if you want to rebel against me >:D
+sleep time - It's supposed to speed up crop growth? Idk if it's working properly at all times. Report bugs, please.
+Better Tags - A dev tool :D deactivated mod.
+World Edit - Another dev tool. Activate if you need it! 
+[WorldEdit - CAUTION My PC almost died, because +4GB RAM usage. Don't recklessly attempt on your potato, I hereby warned you.]
+Weather Detector - Felt like it. 
+Biome Particle Weather - Yes. (Debugging atm so deactivated. Feel free to test it out yourself :))
+
+[Testing: DONE]
+
+
+
+
+**Added Resourcepacks**
+
+Title screen 02 - Look at my horse, my horse is amazing!
+
+
+
+
+Mod Updates
+
+DiagonalFences
+Journeymap
+UntamedWilds
+LittleGeode
+Dynamic Trees
+Supplementaries
+Sooty Chimneys
+Create
+Moving Elevators
+Apotheosis
+Forge 40.2.0 -> Forge 40.2.4
+Unordinary Basics
+Controlling
+Bookshelf
+Adaptive Performance Tweaks: Core
+Ex Nihilo: Sequentia
+FTB Backups 2
+Puzzles Lib
+SeasonHUD
+ArtisticCraft
+Jade
+CraftPresence
+Dynamic Trees - Biomes O' Plenty
+Dynamic Trees
+FramedBlocks
+JER Integration
+Torchmaster
+Sophisticated Backpacks
+Trumpet Skeleton - Re-Calcified
+Oculus
+Iris & Oculus Flywheel Compat
+Dynamic Trees +
+Info Datapack
+Spells & Shields
+Sophisticated Storage
+Star Worm Economy
+Star Worm Decor
+Star Worm Equestrian
+Canary
+Sophisticated Core
+Structure Compass
+Macaw's Roofs
+Majrusz Library
+Fastload
+DLS
+Modernfix
+Just Enough Items (JEI)
+Diagonal Fences
+Female Villagers
+Kiwi 🥝 (Forge)
+Spells & Shields (maybe update forge too?)
+Star Worm Lighting
+Puzzles Lib [Forge & Fabric]
+ModernFix
+Realistic Horse Genetics
+Pehkui
+Macaw's Bridges
+Collective
+Areas
+Majrusz's Accessories
+SuperMartijn642's Core Lib
+Dynamic Trees Quark
+Chunk By Chunk
+Minecard
+Forge 40.2.4 -> Forge 40.2.9
+Sophisticated Storage
+Sophisticated Backpacks
+Sophisticated Core
+
+[Testing: DONE]
+
+
+
+
+Re-Activated Mods
+
+Better Mending is now [BEM] Better Mending Reworked. Thanks to TheOneWithBlueEyes for your hard work. 
+
+
+
+Inactive Mods (Aka I either wait for an update or implement them in the next update, instead.)
+
+Hopper+ (Canary incompatibility)
+Custom Quests (Waiting for Update)
+Better Loading Screen (Waiting for Mod rewrite, thanks to Shedaniel for working on it) -> DLS is installed only to keep the BG implemented that I worked on, it will be removed later, once BLS is back up. Sorry.
+Real Time Mod (Waiting for option to globally disable day/night cycle synch and just work with day/month/year instead)
+JER Integration - crash with... create? 
+Villager Workers (I think about removing it entirely. It doesn't work how I thought it would.)
+Spice of Life: Carrot Edition (Apple pie replaces this mod, will keep it in there if things don't work out for some reason.)
+Better Tags (Development tool, activate if you are helping with debugging)
+
+
+
+Mod Replacements
+
+<empty>
+
+
+Mods that will be removed in the future
+
+Verdure *might* be removed if the planned overhaul will not release/backport for 1.18.2. I will see to it which way is the smallest inconvenience for everybody. 
+Villager Workers (if you still want to use this mod in the future, you'll need to add it back to the package in the future. You can open up a vote issue on my CF page if you are against the removal, I'll decide based on your contributions.)
+
+
+
+Config Updates
+
+Better Mending Reworked
+CraftPresence
+Fancy Menu
+XPFromHarvest (added SWEM crops)
+Xtra Arrows
+FTB Backups now keep at least 5GB space free on hard drives to not block other software from using the necessary space.
+Verdure - Changed huge inconvenience when growing trees on Rich Soil. This is just a band aid. Please also check the other changes. Your worlds may not generate smooth dirt patches and the like because many issues happen when trying to deactivate the mod. I'm very sorry, currently I cannot do but help you patch the holes while limiting the damage done. Use the Hole Filler mod to your convenience!
+KubeJS - Added shapeless recipes for otherwise unobtainable crop seeds due to cutting board not compatible with Polymorph. If you need Eggplant seeds, I hope this makes things easier.
+Rebound Quark function "Hotbar Swapper" to Z instead of Y. 
+If your settings weren't overwritten, double-check in your "controls > key binds" settings.
+Apotheosis - Cranked down the reed growth. Might be adjusted again in the future. 
+
+[DEVNOTES]
+BetterTitleScreen 1.1b05
+BetterCompatibilityChecker 1.1b05
+[done]
+
+
+
+Shaderpack Config Updates
+
+Added to shader list: 
+swem:timothy_plant swem:oat_plant swem:alfalfa_plant 
+and others
+As always, if you find objects that don't move in the wind as they should, press F3 and send me the item name!
+
+
+
+Functionality additions
+
+Added a button to open up your changelog folder. Convenient, eh? 
+Added a guide to help the strugglers out there. It'll be filled with more pages over time. 
+Added the first story piece. A mysterious letter. 
+Added a button to hide the news splashes if that's too annoying. Gotcha. 
+Added a button to report bugs. Opens up the modpack issue page on Curseforge. 
+Added a button to send feedback. Opens up the modpack comment page on Curseforge.
+
+
+
+Other future changes
+Mod updates! Hopefully more bugfixes. Maybe a few new mods, depending on what the devs hold in store. 
+Story! Hopefully also quests. Still waiting on a port for 1.18.2 on a mod that caught my eye. Might not happen so I gotta see what I can do here. More visual enhancements! More? I'll let you know in the next update!
