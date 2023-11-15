@@ -1,1 +1,372 @@
+Version [1.1b06] [11.15.2023]
 
+[RESOLVED!] Debugging missing files on debug side? 
+[This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
+
+New mods added. 
+
+**Expansion mods**
+
+Server Performance - Smooth Chunk Save
+Client Crafting
+Structure Essentials
+Clickable Advancements
+Chunk Sending
+fix GPU memory leak
+Limited Chunkloading - Chunk cleanup
+DrawerFPS
+Leaky - Farm leak detection
+Cupboard
+Better chunk loading
+FastWorkbench [DEVNOTES RE-ENABLE RECIPE BOOK IN CONFIGS! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Crafting Tweaks
+MrCrayfish's Furniture Mod
+GraveStone Mod [TEST IF THIS OR THE OTHER GRAVE MOD IS BETTER]
+Bonsai Trees 3
+Ding - [CONFIGURE SOUND FILE THAT SHALL BE PLAYED]
+MmmMmmMmmMmm (Target Dummy)
+Entity Culling
+FindMe
+FPS Reducer
+Water Strainer
+Extreme sound muffler
+MineTogether
+Initial Inventory
+Crash Utilities
+Nether's Delight
+Gauges and Switches
+BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)
+Cherished Worlds
+Metal Barrel
+Item Highlighter
+NoMoWanderer
+Feature NBT Deadlock Be Gone
+Observable
+Macaw's Paintings
+JourneyMap Integration
+Magnesium/Rubidium Extras
+Neapolitan
+Ultimate Car Mod
+Another Furniture
+Ender Crop
+MemoryLeakFix (might be outdated)
+AntiGhost
+Neko's Enchanted Books
+Saturn
+Little Logistics
+Placeable Items
+Oh My Gourd
+Bed Benefits
+DeLogger
+Tiny Redstone
+Notes
+Human Companions -install pet tracker mod!!!!
+XL Packets
+DeathQuotes / Death Quotes
+Double Doors
+Second Chance
+Configurable Extra Mob Drops
+TellMe (DEVELOPMENT TOOL)
+Amplified Nether
+Boat Break Fix
+Measurements
+Blue Flame Burning
+Dual Riders
+Damage Tilt
+Connectible Chains
+Lightspeed - Launch optimizations
+Peculiars
+CullLessLeaves Reforged
+Cake Chomps
+Seasonals
+Domestic Innovation
+WYML (Why You Make Lag)
+FullStack Watchdog
+Actually Compatible
+Showcase Item
+Cookielicious
+Async Locator
+Path Under Gates
+Beyond Earth: Giselle Addon
+Hourglass
+Modpack Update Checker
+Stylish Effects
+Festive Delight
+NaNny - heal after health modification (might not fix everything)
+ChickenShed
+Pineapple Delight
+What's That Slot?
+Random Bone Meal Flowers
+Fading Night Vision
+Twilight Delight 
+First Join Message
+ImmediatelyFast Reforged (Unofficial)
+Chef's Delight
+Caupona
+PizzaCraft
+End's Delight
+Suggestion Provider Fix
+NoChatLag
+Pop!
+JourneyMap Server
+Respiteful
+Block Limit Fix
+Redirectionor (MAYBE NOT TEST THIS ONE!!!!!)
+ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW!)
+Paintings with Dragons
+RPG Parties
+Croptopia Additions
+Frikinzi's Fauna
+DisguiseLib (NEED TO RE-EVALUATE THE COMMAND IS MOVED, FIND MOD OR FIND OTHER SOLUTION!!!!!!!)
+Missing Wilds
+NoCube's Chinchillas
+Fix Race Condition
+Mermod
+MOA DECOR: COOKERY
+Exquisito
+Biomes in Jars [EDIT CONFIG !!!!!!!!!!!!!!!!!!!!!!!!!!!!] [ADD KUBEJS RECIPES TO CRAFT DUPLICATES WITH THE EXCESS ORES FROM SIEVING IN EX NIHILO???]
+Auto Restart
+MOA DECOR: ART
+Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD?]
+YDM's Fennec Fox
+FancySporeBlossom
+Shutdowner
+MineMention
+Dynamic Trees - Neapolitan
+Roasted
+Lattices
+Light Meals
+Planeteer - Dimensions
+Lore Books
+Jobs (MAYBE NEED A LOT OF TIME TO CONFIGURE _ PLAYER FRUSTRATION FOR OLD PLAYERS IS POSSIBLE SO MAYBE NOT???]
+Now Playing
+Fat Chicken [christmas mod]
+Multipart Machines: Farming
+Carpet Trapdoors
+Mod List Paster
+SoulHome
+ServerSleep
+Gardenaganza
+Rule Control (RC) - incompatible with FancyMenu/something else
+ReAuth
+WATERMeDIA: Multimedia API
+FancyMenu: Video Extension
+Fancy Chunks
+[EMF] Entity Model Features - Finally, working resource packs for our favourite animals! (Well, almost. Quark textures are screwed, I'll eventually fix this myself XD)
+
+
+Debugging:
+Load My F***ing Tags (Minecraft stone was not mineable at all, whoopsie. To prevent future hiccups this will stay in and help debug such situations)
+spark (helps detect lag causes and performance bottlenecks, hopefully)
+
+Dependencies
+The Twilight Forest Mod
+Beyond Planets Core [Alpha Update of Planeteer - Core release, registers as different mod]
+
+
+
+[Testing: IN PROGRESS]
+Tree Harvester - Crouch and destroy one wooden block with an axe, see the whole tree go poof!
+Tree breeding - breed special tree kinds if you look for a specific kind. Not compatible with all mods.
+Tree Bark + - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight berk from this item, give it a bit more usability. 
+Biomes O' Bark - same as the mod above!
+
+Diagonal Windows - oh no she did it again
+Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
+Toggle Enchantments - mods got split from original mod, re-implementing.
+Improved Trident Enchantments - mods got split from original mod, re-implementing.
+Create: Slice 'n Dice - Automate your kitchening further!
+SerializationIsBad - Fixing a recently exposed security breach.
+Chat Bridge - Talk to people playing on another server!
+
+Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE!
+
+
+
+**Added Resourcepacks**
+[Rough testing done. Some may be and stay incompatible, will be kept in the pack for now. - 08.10.2023]
+
+Better 3D Ladder [TESTED +]
+Better Bee Nest [TESTED +]
+Better Lanterns [TESTED +]
+Better Leaves TXF [TESTED +]
+Better Shrooms [TESTED +]
+Better stations [TESTED +]
+BetterDefault Textures [TESTED +]
+Crops 3D [TESTED +]
+Default Dark Mode [TESTED +]
+Dripstone 3D [TESTED +]
+GeForceLegend's 3D Default [TESTED +]
+
+Better Boats [currently incompatible]
+Better Cats [currently incompatible]
+Better Dogs [currently incompatible]
+Better Farm Animals [currently incompatible]
+Better Squid [currently incompatible]
+[Currently need these fabric mods/optifine which are/is modpack incompatible:
+Custom Entity Models (CEM)
+Cloth Config API
+CompleteConfig
+Entity Texture Features
+Mod Menu
+Puzzle
+Fabric API]
+
+xali's Potions [needs CITResewn-1.1.1.jar for 1.18.2, I will try to implement it but since it's not uploaded on Curseforge, it might be denied. Fingers crossed! Otherwise, download it from the Rubidium Discord server!]
+
+
+
+
+Mod Updates
+
+Create Slice & Dice
+Canary
+Modernfix
+Forge 40.2.9 -> 40.2.10
+CarryOn
+Chimes
+Chunk by Chunk
+Torchmaster
+Serene Seasons
+Xtra Arrows
+Polymorph
+Better Tag Tips
+Dungeon Crawl
+Minecard
+Farmer's Delight
+Biomes O' Plenty
+Apotheosis
+SuperMartijn642's Core Lib
+SuperMartijn642's Config Lib
+Item Collectors
+Chunk Loaders
+Connected Glass
+Diagonal Fences [Forge & Fabric]
+Pehkui
+MMLib
+Sophisticated Storage
+Sophisticated Core
+Sophisticated Backpacks
+Max Health Fix
+Delightful
+Spells & Shields
+Moonlight Lib/Selene
+FancyMenu
+CraftPresence
+SWPM
+SWLM
+SWEM
+SWEconM
+SWDM
+Puzzles Lib
+Merge Enchantments
+Locksmith [DEVNOTES NEED TO CHECK KEYBINDINGS AND REMOVE IF POSSIBLE]
+Dynamic Trees
+Dynamic Trees +
+Dynamic Trees BOP
+Macaw's Doors
+Collective
+Cloth Config API
+Iris & Oculus Flywheel Compat
+Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
+
+Chinjufu Mod
+
+[Testing: DONE]
+
+
+
+
+Re-Activated Mods
+
+<empty>
+
+
+
+Inactive Mods (Aka I either wait for an update or implement them in the next update, instead.)
+
+Hopper+ (Canary incompatibility)
+Custom Quests (Waiting for Update)
+Better Loading Screen (Waiting for Mod rewrite, thanks to Shedaniel for working on it) -> DLS is installed only to keep the BG implemented that I worked on, it will be removed later, once BLS is back up. Sorry.
+Real Time Mod (Waiting for option to globally disable day/night cycle synch and just work with day/month/year instead)
+JER Integration - crash with... create? 
+Villager Workers (I think about removing it entirely. It doesn't work how I thought it would.)
+Spice of Life: Carrot Edition (Apple pie replaces this mod, will keep it in there if things don't work out for some reason.)
+Better Tags (Development tool, activate if you are helping with debugging)
+
+
+
+Mod Replacements
+
+<empty>
+
+
+Mods that will be removed in the future
+
+Verdure *might* be removed if the planned overhaul will not release/backport for 1.18.2. I will see to it which way is the smallest inconvenience for everybody. 
+
+**! REMOVED !**: 
+Villager Workers (if you still want to use this mod in the future, you'll need to add it back to the package. You can open up a vote issue on my CF page if you are against the removal, I'll decide based on your contributions.)
+
+
+
+Config Updates
+
+Dynamic Surroundings: Disabled Auroras/entity Breath as they are suspected to cause an ominous crash summed up with "java.lang.NullPointerException: Cannot invoke "net.minecraft.client.renderer.ShaderInstance.m_173350_(String, Object)" because "$$13" is null" - if you still experience this specific crash, send me crash and latest log of the relevant timespan. 
+Regrowth - removed villagers cutting grass (deleted "c" in command)
+XPFromHarvest - added brown and red level 3 mushroom colony to give you XP. Enjoy!
+Chunk by Chunk - set nether sync to true. If you want to reset your Nether generation, navigate to your saves>worldnamehere> and delete the "DIM-1" folder (DIM1 is The End). You cannot do that while in your world, Main Menu should work, though. That will not change the biomes that would spawn at their exact place, though. 
+KubeJS - added compatibility between two bark mods and farmer's delight!
+BYG Updates
+Fast(Work)bench.cfg - re-enabled recipe book
+Adjusted Sodium graphics settings to be suited for lower end machines (this doesn't make it require less RAM, just decrease the amount/severity of lags!) Disable shaders/3D resource packs for further performance boost.
+Small jei-client.ini adjustments.
+Added "swpm-server.toml" to defaultconfigs. Edit to your liking in your own worlds. Existing worlds don't get overwritten by this, check them manually.
+ding.toml - Added "Ding!" sound of horse idle. 
+
+[DEVNOTES]
+BetterTitleScreen 1.1b06
+BetterCompatibilityChecker 1.1b06
+Modpack Update Checker repo 1.1b06
+[done]
+
+
+
+Shaderpack Config Updates
+
+Added to shader list: 
+Serene Shrubbery support
+Unexplored Regions support [currently incomplete]
+Gardenaganza support
+
+As always, if you find objects that don't move in the wind as they should, press F3 and send me the item name (except snow because snow is..... yeh.)!
+
+
+
+Functionality additions
+
+Added prototype for playstyle choice layout (mac OS/Linux users: I am not sure if this works for you. DM me if you got problems.) (If anybody again deletes mods because of the main mechanic, petrification, good luck but your game is incompatible with your friends'. Learn from your mistakes and just disable it in the config. Why do people play a pack that is supposed to make things grindy and then disable the grind? Well, either way, ungrind your world if you so desire. Just do it PROPERLY by using the new GUI. I warned you hereby.)
+Changed UI slightly to fit to new mods (MineTogether, mainly)
+Starter's Guide got new pages, imagery and explanations. Wooh picture book for all who are 2 lazy 2 read. >_> I am not looking at you, lemon. Not at all. (I mean a certain lemon, not all lemons. May the citrus fruit be with you precious nuggets.)
+Added a Special Thanks page. There are bugs, as always. We're very insect friendly here.
+I drew new nightly Splash BGs. Enjoy! 
+New button to reach Notes mod easier and without a hotkey!
+Added button to survival and creative inventory to change JEI settings as a temporary fix for Configured not working properly. USE WITH CAUTION. 
+
+
+Known issues
+
+Nav Buttons in Beginners' Guide don't work like they should. I'm annoyed so I'll fix it later. Or never, idk. 
+Minecraft wooden chest is not pickable by CarryOn (carryon-1.18.2-1.17.1.12), other chest should be fine, though.
+Sometimes blocks don't render anymore (due to unknown reasons), leave the world and re-join it should be fixed. 
+The music from 1,000,000 times might still play in main menu. Try to go back and forth to its GUI to fix it. 
+XPFromHarvest doesn't work on some crops - I am still trying to debug this. Reach out if you got time and want to help me. 
+SoulKeys teleport you... and then crash. I've reported this already.
+There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
+Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
+And maaaybe the KubeJS scripts are not working correctly. I'm on it. 
+
+
+Other future changes
+Mod updates! Hopefully more bugfixes. Maybe a few new mods, depending on what the devs hold in store. 
+Story! Hopefully also quests. Still waiting on a port for 1.18.2 on a mod that caught my eye. Might not happen so I gotta see what I can do here. More visual enhancements! More? I'll let you know in the next update!
