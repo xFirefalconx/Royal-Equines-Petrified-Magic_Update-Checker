@@ -1,4 +1,4 @@
-Version [1.1b06] [11.15.2023]
+Version [1.1b06] [11.17.2023]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -7,23 +7,25 @@ New mods added.
 
 **Expansion mods**
 
-Server Performance - Smooth Chunk Save
-Client Crafting
-Structure Essentials
-Clickable Advancements
-Chunk Sending
-fix GPU memory leak
+**Performance mods**
+Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
+Client Crafting - removes server delay on crafting operations
+Structure Essentials - enhances operations around structures
+Clickable Advancements - the name is program 
+Chunk Sending - reduce chunk sending lag spikes
+fix GPU memory leak - in case your GPU does wonky stuff
 Limited Chunkloading - Chunk cleanup
-DrawerFPS
+DrawerFPS - improve FPS on storage drawers that render items
 Leaky - Farm leak detection
-Cupboard
-Better chunk loading
-FastWorkbench [DEVNOTES RE-ENABLE RECIPE BOOK IN CONFIGS! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-Crafting Tweaks
+Cupboard - Not what the name says, debugging stuff
+Better chunk loading - and another mod to improve chunk loading, hopefully.
+FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
+
+Crafting Tweaks - *rotating the crafting grid*
 MrCrayfish's Furniture Mod
 GraveStone Mod [TEST IF THIS OR THE OTHER GRAVE MOD IS BETTER]
 Bonsai Trees 3
-Ding - [CONFIGURE SOUND FILE THAT SHALL BE PLAYED]
+Ding - Now with horses snorting!
 MmmMmmMmmMmm (Target Dummy)
 Entity Culling
 FindMe
