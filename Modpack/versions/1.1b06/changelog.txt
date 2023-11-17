@@ -20,61 +20,69 @@ Leaky - Farm leak detection
 Cupboard - Not what the name says, debugging stuff
 Better chunk loading - and another mod to improve chunk loading, hopefully.
 FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
+Entity Culling - You can't see me? I don't get rendered. 
+FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
+Crash Utilities - More analytical mods for crashy situations.
+Feature NBT Deadlock Be Gone - In case you corrupted your world with such a thing, here's your savior!
+Observable - More profiling! Figure out what's causing lags. 
+JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
+Magnesium/Rubidium Extras - Performance, enhancements, features. 
+MemoryLeakFix (might be outdated)
+AntiGhost - No ghostbusters but block revealers! Actually, it just syncs the server/client better.
+Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
+DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
+TellMe - DEVELOPMENT TOOL using commands 'n stuff.
+Boat Break Fix - Who put that boat on the mountain top?!
+Blue Flame Burning - Burn like a flame torch! Fwsshhhhh!
+Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Damage Tilt - Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
+
 
 Crafting Tweaks - *rotating the crafting grid*
-MrCrayfish's Furniture Mod
-GraveStone Mod [TEST IF THIS OR THE OTHER GRAVE MOD IS BETTER]
-Bonsai Trees 3
+MrCrayfish's Furniture Mod - I'm sorry I'm a collectaholic. 
+GraveStone Mod - [Corail Tombstone deactivated until further notice] - This mod might get replaced by Corail Tombstone, but it's bugged with Chunk by Chunk atm so I picked a simple "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether we can have Corail some day, depends on the mod devs. Let's hope for the best!
+Bonsai Trees 3 - Remember this mod from SkyFactory4? Yeah I played it, too! Let's create Bonsai!
 Ding - Now with horses snorting!
-MmmMmmMmmMmm (Target Dummy)
-Entity Culling
-FindMe
-FPS Reducer
-Water Strainer
-Extreme sound muffler
-MineTogether
-Initial Inventory
-Crash Utilities
-Nether's Delight
-Gauges and Switches
-BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)
-Cherished Worlds
-Metal Barrel
-Item Highlighter
-NoMoWanderer
-Feature NBT Deadlock Be Gone
-Observable
-Macaw's Paintings
-JourneyMap Integration
-Magnesium/Rubidium Extras
-Neapolitan
-Ultimate Car Mod
-Another Furniture
-Ender Crop
-MemoryLeakFix (might be outdated)
-AntiGhost
-Neko's Enchanted Books
-Saturn
-Little Logistics
-Placeable Items
-Oh My Gourd
-Bed Benefits
-DeLogger
-Tiny Redstone
-Notes
-Human Companions -install pet tracker mod!!!!
-XL Packets
-DeathQuotes / Death Quotes
-Double Doors
-Second Chance
-Configurable Extra Mob Drops
-TellMe (DEVELOPMENT TOOL)
-Amplified Nether
-Boat Break Fix
-Measurements
-Blue Flame Burning
-Dual Riders
-Damage Tilt
+MmmMmmMmmMmm (Target Dummy) - That's a lot of damage. HOW ABOUT MORE :D
+FindMe - Where did I put my stylus? Now I'll know!
+Water Strainer - More ways to obtain resources, now with water!
+Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. 
+MineTogether - Time to bring back an oldie that makes it so much easier to ask for help!
+
+
+Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
+
+
+Nether's Delight - "Hell-O's, the cereals with some extra spice." LMAO. 
+Gauges and Switches - "I like trains." 
+
+BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)[DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+Cherished Worlds - "You are my one and only star!" - "You clicked the fave button again, didn't you."
+Metal Barrel - These barrels are metal. *headbanging noises*
+Item Highlighter - Look, sparkly new items! Oh, now they're old.
+NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to. 
+Macaw's Paintings - Art! Art! Art!
+Neapolitan - Let's go totally bananas!
+Ultimate Car Mod - If you prefer this to horses, you can now utilize it! Vroom vroom!
+Another Furniture - Time to further up the possibilities!
+Ender Crop - Four ender pearls for an XP tome... Do enderman subconsciously avoid you? Try this peaceful method!
+Neko's Enchanted Books - Book retexture so it's not just enchanted purple glowy book #No.2473828.
+Little Logistics - My Little Locomotive, My Little Tugs~
+Placeable Items - Who left that potato in front of my doorstep?!?
+Oh My Gourd - Gourd evening, how can I carve you?
+Bed Benefits - Walked through a lake of poison? Just rest, it'll be okay!
+Tiny Redstone - because you know the placement struggle, I know the struggle, everybody knows the struggle.
+Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget em)
+Human Companions -install pet tracker mod!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
+DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
+Double Doors - Shift right click to open just one, okay?
+Second Chance - "Help me, I'm running out of second chances!" (HU)
+Configurable Extra Mob Drops - I got a plan! A brilliant... time consuming... plan.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Amplified Nether - Oh no more generation tweaks! 3D biomes! What?! What. 
+Measurements - Tired of counting blocks? use this Tape Measure!
+
 Connectible Chains
 Lightspeed - Launch optimizations
 Peculiars
@@ -96,7 +104,7 @@ Stylish Effects
 Festive Delight
 NaNny - heal after health modification (might not fix everything)
 ChickenShed
-Pineapple Delight
+Pineapple Delight - And suddenly: Pineapples!
 What's That Slot?
 Random Bone Meal Flowers
 Fading Night Vision
@@ -154,7 +162,7 @@ ReAuth
 WATERMeDIA: Multimedia API
 FancyMenu: Video Extension
 Fancy Chunks
-[EMF] Entity Model Features - Finally, working resource packs for our favourite animals! (Well, almost. Quark textures are screwed, I'll eventually fix this myself XD)
+[EMF] Entity Model Features - Finally, working resource packs for our favourite animals! (Well, almost. Quark textures are screwed, I had to fix(aka redraw textures in Blockbench o_o) this myself XD)
 
 
 Debugging:
