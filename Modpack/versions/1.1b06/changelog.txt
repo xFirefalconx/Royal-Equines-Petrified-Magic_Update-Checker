@@ -63,13 +63,13 @@ FullStack Watchdog - Serverside mod to show full error stacktrace. [DEVNOTES SHO
 fix GPU memory leak - in case your GPU does wonky stuff
 ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, original dev doesn't support 1.18.2 at all and this dev abandoned it, but at least we have this.
 
-
-
-
-
-
-
+JEITweaker - A JEI/CraftTweaker support mod 
 JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
+JourneyMap Server - "Provides a way for journeymap to identify worlds on bungeecord servers."
+
+
+
+
 Leaky - Farm leak detection
 Limited Chunkloading - Chunk cleanup
 
@@ -241,14 +241,28 @@ Infinite Music - The sound of silence is no more! Well it is shorter now.
 Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
 (ite) Improved Trident Enchantments - mods got split from original mod, re-implementing.
 
+ItemCopy - Wanna share your Chisels and Bits creations? Try this way! 
+ItemZoom - No more squinting, more seeing what you are hovering over :D
+It's the little things - A welcome screen! And more :)
+Japanese Vibes - Some more very pretty and very Japanese blocks and items!
+Just Enough Effect Descriptions (JEED) - Check what enchantments do!
+
+Just Enough Painting Previews (JEPP) - Now you can see how they look like! Just press 'U'
+Just More Cakes! - Welcome to the bakery.
+Jobs (MAYBE NEED A LOT OF TIME TO CONFIGURE _ PLAYER FRUSTRATION FOR OLD PLAYERS IS POSSIBLE SO MAYBE NOT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+JSON Entity Models (JEMs) - Customized Mod Models, basically. [DEVNOTES CHECK NECESSITY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Just Enough Advancements (JEA) - Search for advancements in JEI and check requirements. 
+
+Just Enough Breeding (JEBr) - Wonder how to breed mobs and what their offspring look like? This might help you!
+
 
 
 Gauges and Switches - "I like trains."
 
 
 
-Jobs (MAYBE NEED A LOT OF TIME TO CONFIGURE _ PLAYER FRUSTRATION FOR OLD PLAYERS IS POSSIBLE SO MAYBE NOT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-JourneyMap Server
+
+
 Lattices
 Light Meals
 Lightspeed - Launch optimizations
@@ -541,9 +555,11 @@ Added "swpm-server.toml" to defaultconfigs. Edit to your liking in your own worl
 ding.toml - Added "Ding!" sound of horse idle. 
 
 [DEVNOTES]
+[todo]
 BetterTitleScreen 1.1b06
 BetterCompatibilityChecker 1.1b06
 Modpack Update Checker repo 1.1b06
+ITLT config 1.1b06
 [done]
 
 
