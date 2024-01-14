@@ -1,168 +1,318 @@
-Version [1.1b06] [11.17.2023]
+Version [1.1b06] [11.17.2023][01.12.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
 
+(Where did my old log from December go? Well... let's write a new one \(-_-)/ *dies inside* Ahem. Due to this, I'll rearrange my changelogs a little for better readability - hope you like it!)
+
 New mods added. 
+
+**Performance mods**
+
+AchievementOptimizer - A little performance mod concerning achievements. Less lags, hopefully!
+Actually Compatible - It's actually compatible. Well, if you are on the same Modpack version.
+Anticrash/Fix Container Slot Exploit - Currently incompatible but once it's fixed (hopefully) we won't have to worry about this issue anymore!
+AntiGhost - No ghostbusters but block revealers! Actually, it just syncs the server/client better.
+AntiXray - Sorry buddy, but play fair - ask the server admins if you can use cheats or suffer. You can deactivate this mod together and on your own server if you are ok with Xraying.
+
+Async Locator - Async is cool. Servers can do other tasks in the meantime, reducing lag!
+Auto Restart - A Mod for server owners! Configure this mod before using it! Restart your server via script!
+Better chunk loading - and another mod to improve chunk loading, hopefully.
+Blue Flame Burning - Burn like a flame torch! Fwsshhhhh!
+Block Limit Fix - Idk how anybody manages to get to 524288+ blockstates, but now it's fixed! State even further!
+
+Boat Break Fix - Who put that boat on the mountain top?!
+Bocchium - Bocchi the (Bed)Rock! Cull it!
+Chunk Sending - reduce chunk sending lag spikes
+CIT Resewn/Reforged - Uhhhh yeah so, we need this because Optifine is bad, we're not on Fabric and Resource packs are a messy muddy moshpit. FIGHTO ON!
+Clickable Advancements - the name is program 
+
+Client Crafting - removes server delay on crafting operations
+Compact Help Command - "/help"!
+(Create:) Condensed Milk - Reduces server lag when using lots of Create drills!
+Crash Utilities - More analytical mods for crashy situations.
+CullLessLeaves Reforged - Time to torment our pcs by increasing leaf amount! Or... don't :D
+
+Cupboard - Not what the name says, debugging stuff
+Cyanide - Finally datapacks are not some foreign wizardry... or at least if you screw up, you'll know where you did. 
+Damage Tilt - If you tilt, at least do it the right way! Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
+Dark Mode Everywhere - "Come to the dark side we have-" - "Don't say it!" - "... Cookies?" 
+DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+Dimension Skills - In hope to fix a compatibility issue between Corail Tombstone tablets and Chunk By Chunk world gen... sheesh.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!]
+DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
+DrawerFPS - improve FPS on storage drawers that render items
+Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Dynamic View - Balances TPS and simulation distance
+
+Enhanced Block Entities Reforged (Unofficial) - Another mod to increase your FPS! Makes rendering chests faster.
+Entity Culling - You can't see me? I don't get rendered. 
+(ez)Entity Zoning Supervisor - Another mod for my plans [DEVLOG REMOVE IF IT WORKS WITH THE OTHERS !!!!!!!!!!!!!!!!!!!! CAN CHANGE LOOT TABLES!!!!!!!!!!!!!!!!!!!!!!!!!]
+Farsight - "Finally, I can see!" - "Found your eyeglass, eh?"
+FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
+
+Feature NBT Deadlock Be Gone - In case you corrupted your world with such a thing, here's your savior!
+Fix Race Condition - Fixes a canary related bug (if still existing).
+Fix DS_Store Crash - I don't use macos but if you do, maybe this prevents some crashes with kubejs. 
+Flame Sweeping Potato Edition - This combines Fire Aspect with Sweeping Edge.
+FlowingFluidFixer - Got no flowing version, no problem.
+
+ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW! DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
+FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
+FullStack Watchdog - Serverside mod to show full error stacktrace. [DEVNOTES SHOULD THIS WORK IN SINGLEPLAYER IF YES MAKE GITHUB ISSUE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+fix GPU memory leak - in case your GPU does wonky stuff
+ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, original dev doesn't support 1.18.2 at all and this dev abandoned it, but at least we have this.
+
+
+
+
+
+
+
+JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
+Leaky - Farm leak detection
+Limited Chunkloading - Chunk cleanup
+
+Magnesium/Rubidium Extras - Performance, enhancements, features. 
+MemoryLeakFix (might be outdated)
+Observable - More profiling! Figure out what's causing lags. 
+Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
+Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
+
+Structure Essentials - enhances operations around structures
+TellMe - DEVELOPMENT TOOL using commands 'n stuff.
+XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Expansion mods**
 
-**Performance mods**
-Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
-Client Crafting - removes server delay on crafting operations
-Structure Essentials - enhances operations around structures
-Clickable Advancements - the name is program 
-Chunk Sending - reduce chunk sending lag spikes
-fix GPU memory leak - in case your GPU does wonky stuff
-Limited Chunkloading - Chunk cleanup
-DrawerFPS - improve FPS on storage drawers that render items
-Leaky - Farm leak detection
-Cupboard - Not what the name says, debugging stuff
-Better chunk loading - and another mod to improve chunk loading, hopefully.
-FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
-Entity Culling - You can't see me? I don't get rendered. 
-FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
-Crash Utilities - More analytical mods for crashy situations.
-Feature NBT Deadlock Be Gone - In case you corrupted your world with such a thing, here's your savior!
-Observable - More profiling! Figure out what's causing lags. 
-JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
-Magnesium/Rubidium Extras - Performance, enhancements, features. 
-MemoryLeakFix (might be outdated)
-AntiGhost - No ghostbusters but block revealers! Actually, it just syncs the server/client better.
-Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
-DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
-TellMe - DEVELOPMENT TOOL using commands 'n stuff.
-Boat Break Fix - Who put that boat on the mountain top?!
-Blue Flame Burning - Burn like a flame torch! Fwsshhhhh!
-Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Damage Tilt - Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
+bricks but 3D - It's briccccc time! I kid you not.
+.3D Placeable Food - There can't ever be enough food mods : D No, really, they look so cool!
+Amplified Nether - Oh no more generation tweaks! 3D biomes! What?! What. 
+Another Furniture - Time to further up the possibilities!
+ARFID Awareness - I plan to add another game mode soon. Activate if you want to test the mod, but beware it's difficult. [DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+Asoteria - A new dimension, will you survive?
+Athelas - Find it in the *Middle* of the *Earth*, it's rare but maybe you'll spot one in your direst moments!
+Biome-Colored Flowers & Plants - This is a resource pack mod. You are sad your poppy flower's green pops out too much? Not anymore! [DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!]
+Beautify! - "I am a pretty hanging pot o3o" - "Stop putting your hair in the vase!!!"
+Bed Benefits - Walked through a lake of poison? Just rest, it'll be okay!
 
-Crafting Tweaks - *rotating the crafting grid*
-MrCrayfish's Furniture Mod - I'm sorry I'm a collectaholic. 
-GraveStone Mod - [Corail Tombstone deactivated until further notice] - This mod might get replaced by Corail Tombstone, but it's bugged with Chunk by Chunk atm so I picked a simple "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether we can have Corail some day, depends on the mod devs. Let's hope for the best!
+Better Server GUI - ms/t graphs! command suggestions!
+Beyond Earth: Giselle Addon - To the promised land! To Mars! *suffocates*
+Beyond Planets Core/Planeteer - Core - You know this mod from Alpha phase, where Pickaxes suddenly wouldn't work because of cooked tags. Oopsie. Hope it's fixed soon! LMFT helped me out!
+Beyond Planets Dimensions/Planeteer - Dimensions - A mod with hopefully a lot of potential! New planets! We are going further outerspace!
+Biome Music - Play a cold piece of music! What? Frozen?! [CURRENTLY CRASHES FIND CAUSE DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+Biomes in Jars [EDIT CONFIG !!!!!!!!!!!!!!!!!!!!!!!!!!!!] [ADD KUBEJS RECIPES TO CRAFT DUPLICATES WITH THE EXCESS ORES FROM SIEVING IN EX NIHILO???][DEVNOTES!!!!!!!!!!]
+Biomes O' Bark - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
+BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)[DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Bitems - Bilingual Items - You wanted to learn a language while playing Minecraft? Now you... can! You have to set the language, though. It's set to en_us by default.
+BlackAuresPaintings/Paintings with Dragons - I just HAD to when I saw those paintings! Fellow artist support! I love dragons, do you too?
+
 Bonsai Trees 3 - Remember this mod from SkyFactory4? Yeah I played it, too! Let's create Bonsai!
-Ding - Now with horses snorting!
-MmmMmmMmmMmm (Target Dummy) - That's a lot of damage. HOW ABOUT MORE :D
-FindMe - Where did I put my stylus? Now I'll know!
-Water Strainer - More ways to obtain resources, now with water!
-Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. 
-MineTogether - Time to bring back an oldie that makes it so much easier to ask for help!
+Broglis Plants - "Oh no it's a trap!" "Ohohohooo, I'm a fly trap >:3c"
+Butter(fly)fish Mod - You know this one fish fella, if you watched a certain movie. Finding...
+Caelum - Look at the moon, isnt't it beautiful? If you can't use shaders because of various reasons, you can instead look at cool shooting stars, supernovae and true(r) moon phases!
+Cake Chomps - *nom nom* "Wha- have you seriously eaten all my cake?!"
 
+Capy(bara mod) - If you have no use for sparkling watermelons or gold apples, you found your new target group! Or if riding pigs got too boring. 
+Car(Ultimate Car Mod) - I like horses, but maybe you like cars more! There you go. 
+Carpet Trapdoors - At least you can hide your mischievous places a tad better. Until people read the block name. 
+Caupona - I only understand Greek! Ah right, that's Greek cuisine! 
+Cfm (MrCrayfish's Furniture Mod) - You need more options to decorate your home? Try these!
 
-Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
-
-
-Nether's Delight - "Hell-O's, the cereals with some extra spice." LMAO. 
-Gauges and Switches - "I like trains." 
-
-BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)[DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Chalk - You are a lostie just like me? Try find your way home with chalk! Or just do a fun round of paper chase!
+Chat Bridge - Talk to people playing on another server!
+Chat Heads - Displays your head in chat, easy as that.
+Chat Stamps - When did I write that again? Ah right, at 30 PM. Wait, that's not right... 
+Chef's Delight - Come over, we got a free seat for ya!
 
 Cherished Worlds - "You are my one and only star!" - "You clicked the fave button again, didn't you."
-Metal Barrel - These barrels are metal. *headbanging noises*
-Item Highlighter - Look, sparkly new items! Oh, now they're old.
-NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to. 
-Macaw's Paintings - Art! Art! Art!
-Neapolitan - Let's go totally bananas!
-Ultimate Car Mod - If you prefer this to horses, you can now utilize it! Vroom vroom!
-Another Furniture - Time to further up the possibilities!
-Ender Crop - Four ender pearls for an XP tome... Do enderman subconsciously avoid you? Try this peaceful method!
-Neko's Enchanted Books - Book retexture so it's not just enchanted purple glowy book #No.2473828.
-Little Logistics - My Little Locomotive, My Little Tugs~
-Placeable Items - Who left that potato in front of my doorstep?!?
-Oh My Gourd - Gourd evening, how can I carve you?
-Bed Benefits - Walked through a lake of poison? Just rest, it'll be okay!
-Tiny Redstone - because you know the placement struggle, I know the struggle, everybody knows the struggle.
-Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget em)
-Human Companions -install pet tracker mod!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
-DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
-Double Doors - Shift right click to open just one, okay?
-Second Chance - "Help me, I'm running out of second chances!" (HU)
-Configurable Extra Mob Drops - I got a plan! A brilliant... time consuming... plan.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-Amplified Nether - Oh no more generation tweaks! 3D biomes! What?! What. 
-Measurements - Tired of counting blocks? use this Tape Measure!
+ChickenShed - A more realistic way of obtaining feathers. 
+Chorus Soda - Are... you really gonna drink that?!
+CoFH Core - A Library Mod! (Huh? Gourds??)
+Compat O' Plenty - Have a guess what this does :D
 
-Connectible Chains
-Lightspeed - Launch optimizations
-Peculiars
-CullLessLeaves Reforged
-Cake Chomps
-Seasonals
-Domestic Innovation
-WYML (Why You Make Lag)
-FullStack Watchdog
-Actually Compatible
-Showcase Item
-Cookielicious
-Async Locator
-Path Under Gates
-Beyond Earth: Giselle Addon
-Hourglass
-Modpack Update Checker
-Stylish Effects
-Festive Delight
-NaNny - heal after health modification (might not fix everything)
-ChickenShed
-Pineapple Delight - And suddenly: Pineapples!
-What's That Slot?
-Random Bone Meal Flowers
-Fading Night Vision
-Twilight Delight 
-First Join Message
-ImmediatelyFast Reforged (Unofficial)
-Chef's Delight
-Caupona
-PizzaCraft
-End's Delight
-Suggestion Provider Fix
-NoChatLag
-Pop!
+Configurable Extra Mob Drops - I got a plan! A brilliant... time consuming... plan.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Connectible Chains - Chained to the fence!
+Cookie Block - Finally a worthy storage for your calories!
+Cookielicious - "I am the cookie monster!" - "I told you not to eat ALL of them!"
+Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD? DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+Cosmetic Armor Reworked - Perfect for... pretty anything! Wanna record a video, or just play hide and seek with your friends without worry... Or just look fancy!
+Crafting Tweaks - *rotating the crafting grid*
+Create Train Additions - A few signals for your train tracks!
+Create Compressed - Save storage space!
+Create Recycle Everything - Who needs trash cans when you got this neat thing?! Get back goods from trashing your scraps woohoo!
+
+Create Confectionery - "I am the gingerbread man!" - "I am not even gonna ask what you did this time." - "I created candies! And chocolate! And gingerbread! And mar-" - "We get it."
+Create Factory - "This manual says... uncooked... waffle...?!?"
+(Create) InfiniDrill - Drill your ores. Drill infinite amounts. [DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+(Create:) Slice 'n Dice - Automate your kitchening further!
+Croptopia Additions - "Ramen!" - "Hot Dogs! - "Ramen!" - "Hot Dogs!" - "... Beans. On toat." - "The... what?!"
+DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
+
+DeathStats - Oop, there you died again, Death score +1
+Decorative Blocks - You'll find me in a haystack, maybe. Or not?
+Diagonal Fences - Time to build a round pen! Uh well, close enough. 
+Diagonal Windows - "Oh no you did it again..."
+Differentiate - Another library mod! 
+
+Dimension Viewer - "Your friend is in Mars Orbit" - "I thought you... *suffocated*?!?"
+Ding - Now with horses snorting!
+Dismount Entity - Oh no, my panda is stuck in the boat! Well, not anymore! Make it dismount without hassle!
+Domestic(ation) Innovation - Currently incompatible with "Projectsavethepets"... Mayyybe somebody can... you know, change the 1000 priority?? Yes/no? [DEVNOTES !!!!!!!!!]
+Double Doors - Shift right click to open just one, okay?
+
+Drip Sounds - Now you can listen to the skies crying properly~ (Rain, you mean rain!)
+Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES FIND CAUSE FOR CUTTING TREE CRASH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Dynamic Trees - Hexerei - Willow, willow, got a crow feather under my pillow~
+Dynamic Trees - Neapolitan - Bananananananaa  
+Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
+
+Eating Animation - I have half a sandwich and it's all mine! And now it's gone :D
+Effortless Building - Stop placing blocks one by one! Switch modes by holding ALT. 
+Einstein's Library - A library mod (oh surprise).
+Ender Crop - Four ender pearls for an XP tome... Do enderman subconsciously avoid you? Afraid of Endermen? Try this peaceful method!  
+Endless Biomes - The End of biomes! Just kidding. Penumbral Forests, I just had to add this mod. Show me your builds if you *end* up finding one!
+
+End Portal Parallax - I missed this old animation style! Gives me less headache. 
+End's Delight - That's my chorus pie!
+Enercell - Store your energy for darker days!
+[EMF] Entity Model Features - Finally, working resource packs for our favourite animals! (Well, almost. Quark textures are screwed, I had to fix(aka redraw textures in Blockbench o_o) this myself XD)
+[ETF] Entity Texture Features - Linked to EMF.
+
+Equipment Compare - Because other video games got this neat feature, too. Compare at a glance!
+Every Compat (Wood Good) - "Tired of incomplete wood sets? Well you came to the right place!"
+Exit Confirmation - Thank you for this useful mod! No more accidental game closes!
+Exline's Awnings - Now with Corners! - Keeps the rain from your front door. 
+Exquisito - No *End* in sight, foods only!
+
+Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. [DEVLOG ANALYZE! MODPACK ISSUE SOMETHING BREAKS IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Fading Night Vision - Does what it says. No more sudden night vision.
+Fancy Chunks - Fading in chunks! Works best without shaders. 
+FancyMenu: Video Extension - Easter egg time >:)
+FancySporeBlossom - We love fancy shmancy things!
+
+Fat Chicken [christmas mod] - Next christmas will be so much better!
+(YDM's) Fennec Fox - Rabbits for these cuties! Have them all!
+Festive Delight - I can smell the dough from here!
+FindMe - Where did I put my stylus? Now I'll know!
+First Join Message - Makes the experience just that bit nicer. [DEVLOG ADD MESSAGE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+
+FlionkJ More Blocks - Railings for your home!
+Floor Mats - Multiblock pressure plates!
+Floralis - Farmable dye!
+Flotage - Let's build a raft!
+Fluffy Flowers - Adds dandelions!
+
+FootprintParticle - Time to leave behind our own footprints. [DEVLOG ADD HORSE HOOVES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Forever A Child - "Why did you stop ageing?" - "They right clicked at me with a poisonous potato :(" - "So you can't drink milk now. Was it worth it?" - "Definitely >:D"
+Frikinzi's Fauna - I usually hate magpies, but I love these! I had to add this beautiful mod. Hope you all love these birbs too. 
+Frosted Glass - "That's not frosted, that's just steam!" - "You are looking at the wrong block." - "Oh that's... blurry... frosted..."
+Furniture Expanded - No more fake showers! Now with water!
+
+Gardenaganza - More flowers for the gardeners among us!
+Golems Are Friends Not Fodder - Villagers take care of their strong friends, like they should.
+Gourds Fix - Now this is where we *stem* from. 
+(Oh My) Gourd - "Oh thy light, may it shine to guard our mighty gourd forever!" - "That's enough. Give me the lighter."
+GraveStone Mod - [Corail Tombstone deactivated until further notice] - This mod might get replaced by Corail Tombstone, but it's bugged with Chunk by Chunk atm so I picked a simple "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether we can have Corail some day, depends on the mod devs. Let's hope for the best!
+
+Grouping & Sorting for Waystones - Easier to see how many homes and how many beehive waystones you have now. Or villages, weird mansions, underwater castles... you get it.
+Help Wanted - "Don't. Those are my emeralds!" - "But we need a farmer! Now! And you said I can't use a diamond one." - "Use gold, okay. And only ONCE."
+HexLands II - Ignore this mod for now, I am experimenting with more game modes atm. You can experiment too, if you want! [DEVNOTES REMEMBER THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+(Item) Highlighter - Look, sparkly new items! Oh, now they're old.
+Hitmarker Reforged - A bit better feedback on hitting mobs.
+
+Hit Streak - Whose is the highest? 
+(Maiden's) Holiday Horticulture--Holiday Flowers and Plants - Everything's covered in snow, oh, I see a mistletoe~
+Horizontal Panes - Use these for your carport roof!
+Horse Tack - Make our horses wear fancy stuff. 
+Hourglass - Tempus fugit! (No clue what that means exactly)
+
+Human Companions - In this hut there's no witch but a new friend for you!   install pet tracker mod!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
+Iceberg - A mod library.
+Infinite Music - The sound of silence is no more! Well it is shorter now. 
+Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
+(ite) Improved Trident Enchantments - mods got split from original mod, re-implementing.
+
+
+
+Gauges and Switches - "I like trains."
+
+
+
+Jobs (MAYBE NEED A LOT OF TIME TO CONFIGURE _ PLAYER FRUSTRATION FOR OLD PLAYERS IS POSSIBLE SO MAYBE NOT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 JourneyMap Server
-Respiteful
-Block Limit Fix
-Redirectionor (MAYBE NOT TEST THIS ONE!!!!!)
-ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW!)
-Paintings with Dragons
-RPG Parties
-Croptopia Additions
-Frikinzi's Fauna
-DisguiseLib (NEED TO RE-EVALUATE THE COMMAND IS MOVED, FIND MOD OR FIND OTHER SOLUTION!!!!!!!)
-Missing Wilds
-NoCube's Chinchillas
-Fix Race Condition
-Mermod
-MOA DECOR: COOKERY
-Exquisito
-Biomes in Jars [EDIT CONFIG !!!!!!!!!!!!!!!!!!!!!!!!!!!!] [ADD KUBEJS RECIPES TO CRAFT DUPLICATES WITH THE EXCESS ORES FROM SIEVING IN EX NIHILO???]
-Auto Restart
-MOA DECOR: ART
-Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD?]
-YDM's Fennec Fox
-FancySporeBlossom
-Shutdowner
-MineMention
-Dynamic Trees - Neapolitan
-Roasted
 Lattices
 Light Meals
-Planeteer - Dimensions
+Lightspeed - Launch optimizations
+Little Logistics - My Little Locomotive, My Little Tugs~
 Lore Books
-Jobs (MAYBE NEED A LOT OF TIME TO CONFIGURE _ PLAYER FRUSTRATION FOR OLD PLAYERS IS POSSIBLE SO MAYBE NOT???]
-Now Playing
-Fat Chicken [christmas mod]
-Multipart Machines: Farming
-Carpet Trapdoors
+Macaw's Paintings - Art! Art! Art!
+Measurements - Tired of counting blocks? use this Tape Measure!
+Mermod
+Metal Barrel - These barrels are metal. *headbanging noises*
+MineMention
+MineTogether - Time to bring back an oldie that makes it so much easier to ask for help!
+Missing Wilds
+MmmMmmMmmMmm (Target Dummy) - That's a lot of damage. HOW ABOUT MORE :D
+MOA DECOR: ART
+MOA DECOR: COOKERY
 Mod List Paster
-SoulHome
-ServerSleep
-Gardenaganza
-Rule Control (RC) - incompatible with FancyMenu/something else
+Modpack Update Checker
+MrCrayfish's Furniture Mod - I'm sorry I'm a collectaholic. 
+Multipart Machines: Farming
+NaNny - heal after health modification (might not fix everything)
+Neapolitan - Let's go totally bananas!
+Neko's Enchanted Books - Book retexture so it's not just enchanted purple glowy book #No.2473828.
+Nether's Delight - "Hell-O's, the cereals with some extra spice." LMAO. 
+NoChatLag
+NoCube's Chinchillas
+NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to. 
+Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget em)
+Now Playing
+Oh My Gourd - Gourd evening, how can I carve you?
+Path Under Gates
+Peculiars
+Pineapple Delight - And suddenly: Pineapples!
+PizzaCraft
+Placeable Items - Who left that potato in front of my doorstep?!?
+Pop!
+Random Bone Meal Flowers
 ReAuth
+Redirectionor (MAYBE NOT TEST THIS ONE!!!!!)
+Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE!
+Respiteful
+Roasted
+RPG Parties
+Rule Control (RC) - incompatible with FancyMenu/something else
+Seasonals
+Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
+SerializationIsBad - Fixing a recently exposed security breach.
+ServerSleep
+Showcase Item
+Shutdowner
+SoulHome
+Stylish Effects
+Suggestion Provider Fix
+Tiny Redstone - because you know the placement struggle, I know the struggle, everybody knows the struggle.
+Toggle Enchantments - mods got split from original mod, re-implementing.
+Tree Bark + - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
+Tree breeding - breed special tree kinds if you look for a specific kind. Not compatible with all mods.
+Tree Harvester - Crouch and destroy one wooden block with an axe, see the whole tree go poof!
+Twilight Delight 
+Ultimate Car Mod - If you prefer this to horses, you can now utilize it! Vroom vroom!
+Water Strainer - More ways to obtain resources, now with water!
 WATERMeDIA: Multimedia API
-FancyMenu: Video Extension
-Fancy Chunks
-[EMF] Entity Model Features - Finally, working resource packs for our favourite animals! (Well, almost. Quark textures are screwed, I had to fix(aka redraw textures in Blockbench o_o) this myself XD)
+What's That Slot?
+WYML (Why You Make Lag)
+
 
 
 Debugging:
@@ -176,51 +326,35 @@ Beyond Planets Core [Alpha Update of Planeteer - Core release, registers as diff
 
 
 [Testing: IN PROGRESS]
-Tree Harvester - Crouch and destroy one wooden block with an axe, see the whole tree go poof!
-Tree breeding - breed special tree kinds if you look for a specific kind. Not compatible with all mods.
-Tree Bark + - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight berk from this item, give it a bit more usability. 
-Biomes O' Bark - same as the mod above!
 
-Diagonal Windows - oh no she did it again
-Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
-Toggle Enchantments - mods got split from original mod, re-implementing.
-Improved Trident Enchantments - mods got split from original mod, re-implementing.
-Create: Slice 'n Dice - Automate your kitchening further!
-SerializationIsBad - Fixing a recently exposed security breach.
-Chat Bridge - Talk to people playing on another server!
-
-Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE!
 
 
 
 **Added Resourcepacks**
-[Rough testing done. Some may be and stay incompatible, will be kept in the pack for now. - 08.10.2023]
+[Rough testing done. Report bugs about entities with weird textures. I'll see what I can do.]
 
-Better 3D Ladder [TESTED +]
-Better Bee Nest [TESTED +]
-Better Lanterns [TESTED +]
-Better Leaves TXF [TESTED +]
-Better Shrooms [TESTED +]
-Better stations [TESTED +]
-BetterDefault Textures [TESTED +]
-Crops 3D [TESTED +]
-Default Dark Mode [TESTED +]
-Dripstone 3D [TESTED +]
-GeForceLegend's 3D Default [TESTED +]
+Better 3D Ladder [Compatible +]
+Better Bee Nest [Compatible +]
+Better Lanterns [Compatible +]
+Better Leaves TXF [Compatible +]
+Better Shrooms [Compatible +]
+Better stations [Compatible +]
+BetterDefault Textures [Compatible +]
+Crops 3D [Compatible +]
+Default Dark Mode [Compatible +]
+Dripstone 3D [Compatible +]
+GeForceLegend's 3D Default [Compatible +]
 
-Better Boats [currently incompatible]
-Better Cats [currently incompatible]
-Better Dogs [currently incompatible]
-Better Farm Animals [currently incompatible]
-Better Squid [currently incompatible]
-[Currently need these fabric mods/optifine which are/is modpack incompatible:
-Custom Entity Models (CEM)
-Cloth Config API
-CompleteConfig
-Entity Texture Features
-Mod Menu
-Puzzle
-Fabric API]
+Better Boats [Compatible +]
+Better Cats [Compatible +]
+Better Dogs [Compatible +]
+Better Farm Animals [Compatible +] [Quark/Maidens Merrymaking: Compatibility Resource pack created (Yep I drew new ones in Blockbench, just for ya!)]
+Better Squid [Compatible +]
+
+Now compatible thanks to:
+
+Entity Texture Features [ETF]
+Entity Texture Models [ETM]
 
 xali's Potions [needs CITResewn-1.1.1.jar for 1.18.2, I will try to implement it but since it's not uploaded on Curseforge, it might be denied. Fingers crossed! Otherwise, download it from the Rubidium Discord server!]
 
@@ -229,18 +363,90 @@ xali's Potions [needs CITResewn-1.1.1.jar for 1.18.2, I will try to implement it
 
 Mod Updates
 
-Create Slice & Dice
-Canary
-Modernfix
+Apotheosis 5.8.0 -> 5.8.1
+appleskin 2.4.1 -> 2.5.1
+areas 5.0 -> 5.2
+betterbeaconplacement 3.1 -> 3.2
+betterconduitplacement 3.0 -> 3.1
+betterspawnercontrol 4.0 -> 4.3
+Better Tag Tips 1.0 -> 1.1
+bettervillage 3.1.0 -> 3.2.0
+BiomesO'Plenty 16.0.0.109-universal -> 16.0.0.134
+biomespawnpoint 2.0 -> 2.1 
+Canary 0.2.3 -> 0.2.4
+CarryOn 1.17.1.11 -> 1.17.1.12
+Chimes 1.1.2 -> 2.0.1
+chinjufumod 6.3.2 -> 6.4.1
+Chunk by Chunk 2.0.0 -> 2.1.1
+chunkloaders 1.2.3 -> 1.2.8
+cloth config 6.4.90 -> 6.5.102
+collective 6.62 -> 7.7
+connectedglass 1.1.6 -> 1.1.8
+craftpresence 2.0.7 -> 2.2.5
+delightful 2.6 -> 3.2.1
+diagonalfences 3.2.2 -> 3.2.3
+dungeoncrawl 2.3.12 -> 2.3.14
+durabilitytooltip 1.1.4 -> 1.1.5
+dynamictrees 1.0.3 -> 1.0.4
+dynamictreesbop 3.0.0 -> 3.0.2
+dynamictrees+ 1.0.3 -> 1.0.5
+fancymenu 2.14.7 -> 2.14.9
+farmersdelight 1.2.1 -> 1.2.3
+fastloadreforged 8.2.1 -> 3.4.0 (NANI ?!? We went up in versions, don't worry.)
+ftbbackups2 1.0.19 -> 1.0.22
+itemcollectors 1.1.7 -> 1.1.8
+itemlocks 1.3 -> 1.3.3
+keepmysoiltilled 2.0 -> 2.1
+locksmith 1.0.3 -> 1.1.1
+marjrusz library 4.3.2 -> 5.1.2
+marjrusz accesoires 1.2.2 -> 1.2.3
+maxhealthfix 5.0.1 -> 5.0.4
+mcwdoors 1.0.9 -> 1.1.0
+mcwwindows 2.1.1 -> 2.2.0
+merenc 1.9 -> 3.2
+minecard 0.8.0 -> 1.0.0
+mmlib 1.2.0 -> 1.2.2
+Modernfix 5.0.4 -> 5.6.1
+movingelevators 1.4.3 -> 1.4.4
+nocube'sbetterfletchingtable 1.0.0 -> 1.0.1
+nocube'svillagerssellanimals 1.2.0 -> 1.2.1
+oculusflywheelcompat 0.2.0 -> 0.2.1
+passiveendermen 4.2 -> 4.3
+pehkui 3.7.6 -> 3.7.8
+Polymorph 0.46 -> 0.49
+puzzleslib 3.4.6 -> 3.5.7
+randomvillagenames 3.2 -> 3.4
+regrowth 40.31.1 -> 40.31.2
+seamlessloadingscreen 3.0.0 -> 3.0.1
+selene 1.17.9 -> 1.17.14 
+Serene Seasons 7.0.0.13 -> 7.0.0.15
+smoothboot(reloaded) 0.0.2 -> 0.0.4
+sophisticatedbackpacks 3.18.53.859 -> 3.18.60.906
+sophisticatedcore 0.5.72.331 -> 0.5.87.416
+sophisticatedstorage 0.8.28.481 -> 0.8.42.599
+spellsandshields 2.12.2 -> 2.13.0
+supermartijn642configlib 1.1.6 -> 1.1.8
+supermartijn642corelib 1.1.10 -> 1.1.15
+swdm 3.0.1 -> 3.1.2
+sweconm 1.0.1 -> 1.1.1
+swem 1.2.8 -> 1.3.0-15
+swlm 2.0.2 -> 2.0.3
+swpm 2.0.0 -> 2.9.0
+Torchmaster 18.2.0 -> 18.2.1
+unordinarybasics 1.0.2.0 -> 1.0.2.1
+untamedwilds 2.4.0 -> 2.4.3
+villagernames 5.2 -> 7.0
+villagespawnpoint 4.0 -> 4.1
+Xtra Arrows 2.4.3 -> 3.0.6
+
+
+
+
 Forge 40.2.9 -> 40.2.10
-CarryOn
-Chimes
-Chunk by Chunk
-Torchmaster
-Serene Seasons
-Xtra Arrows
-Polymorph
-Better Tag Tips
+
+
+
+
 Dungeon Crawl
 Minecard
 Farmer's Delight
