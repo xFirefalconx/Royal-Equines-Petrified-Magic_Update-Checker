@@ -66,16 +66,28 @@ ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, or
 JEITweaker - A JEI/CraftTweaker support mod 
 JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
 JourneyMap Server - "Provides a way for journeymap to identify worlds on bungeecord servers."
+Leaky - Farm leak detection - Collect your loot or the game does.
+Lightspeed - Launch optimizations - decreases launch time by a bit. (48-71% according to dev?!) 
 
-
-
-
-Leaky - Farm leak detection
-Limited Chunkloading - Chunk cleanup
-
-Magnesium/Rubidium Extras - Performance, enhancements, features. 
+Limited Chunkloading - Chunk cleanup - Serverside mod, you log off, your chunks unload. Helps boost server performance.
+Load My F***ing Tags - This mod is for debugging but since some issues might stay, it at least keeps compatibility where it would break due to cooked tags. Not looking at Planeteer Core...
 MemoryLeakFix (might be outdated)
+(MinecraftClientGobrrr)Game window go brrr - Forces Minecraft Window to show up earlier. No more confusion whether it's loading or not!
+Mixin In Heaven - Mixins added to the stacktrace!
+
+Modifier Key Fix - Stop calling the base key! Less trouble, woohoo!
+(NMPR)No More Poison with Regeneration - Cancels out each other upon same duration, because it makes more sense.
+NoChatLag - Fixes an issue with chat lag and freezes.
+
+
+
+
+
+
+
+
 Observable - More profiling! Figure out what's causing lags. 
+(rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
 Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
 
@@ -124,7 +136,7 @@ Capy(bara mod) - If you have no use for sparkling watermelons or gold apples, yo
 Car(Ultimate Car Mod) - I like horses, but maybe you like cars more! There you go. 
 Carpet Trapdoors - At least you can hide your mischievous places a tad better. Until people read the block name. 
 Caupona - I only understand Greek! Ah right, that's Greek cuisine! 
-Cfm (MrCrayfish's Furniture Mod) - You need more options to decorate your home? Try these!
+Cfm (MrCrayfish's Furniture Mod) - You need more options to decorate your home? Try these! I'm sorry I'm a collectaholic. 
 
 Chalk - You are a lostie just like me? Try find your way home with chalk! Or just do a fun round of paper chase!
 Chat Bridge - Talk to people playing on another server!
@@ -151,9 +163,13 @@ Create Compressed - Save storage space!
 Create Recycle Everything - Who needs trash cans when you got this neat thing?! Get back goods from trashing your scraps woohoo!
 
 Create Confectionery - "I am the gingerbread man!" - "I am not even gonna ask what you did this time." - "I created candies! And chocolate! And gingerbread! And mar-" - "We get it."
+Create Compact Exp - "Who would like to give me the experience? Ah, chicken! I really appreciate your experience!" - Elppa in RLCraft
 Create Factory - "This manual says... uncooked... waffle...?!?"
 (Create) InfiniDrill - Drill your ores. Drill infinite amounts. [DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (Create:) Slice 'n Dice - Automate your kitchening further!
+
+(Create:) Modern Train Parts - Here's a... container? What... are you aiming for?
+(Create:) Mounted Storages - More compatibility with contraptions! [CURRENTLY CRASHES WAITING FOR UPDATE DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Croptopia Additions - "Ramen!" - "Hot Dogs! - "Ramen!" - "Hot Dogs!" - "... Beans. On toat." - "The... what?!"
 DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
 
@@ -220,7 +236,7 @@ Furniture Expanded - No more fake showers! Now with water!
 Gardenaganza - More flowers for the gardeners among us!
 Golems Are Friends Not Fodder - Villagers take care of their strong friends, like they should.
 Gourds Fix - Now this is where we *stem* from. 
-(Oh My) Gourd - "Oh thy light, may it shine to guard our mighty gourd forever!" - "That's enough. Give me the lighter."
+(Oh My) Gourd - "Gourd evening, how can I carve you? Oh thy light, may it shine to guard our mighty gourd forever!" - "That's enough. Give me the shears and the lighter."
 GraveStone Mod - [Corail Tombstone deactivated until further notice] - This mod might get replaced by Corail Tombstone, but it's bugged with Chunk by Chunk atm so I picked a simple "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether we can have Corail some day, depends on the mod devs. Let's hope for the best!
 
 Grouping & Sorting for Waystones - Easier to see how many homes and how many beehive waystones you have now. Or villages, weird mansions, underwater castles... you get it.
@@ -254,44 +270,79 @@ JSON Entity Models (JEMs) - Customized Mod Models, basically. [DEVNOTES CHECK NE
 Just Enough Advancements (JEA) - Search for advancements in JEI and check requirements. 
 
 Just Enough Breeding (JEBr) - Wonder how to breed mobs and what their offspring look like? This might help you!
+Kotlin for Forge - Kotlin libraries for modding
+Larger World Icon - 128x128 pixel world icons [Incompatible with Actually Compatible DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Lattices - More decoration for your gardens!
+Legacy Achivements - The cake is a lie!
 
-
-
-Gauges and Switches - "I like trains."
-
-
-
-
-
-Lattices
-Light Meals
-Lightspeed - Launch optimizations
+Lets Go Herping! - More critters, build a Zoo I dare you!
+Libnonymus - Library mod
+LibX - Another Library Mod
+Light Meals - Mashed potatoes!
 Little Logistics - My Little Locomotive, My Little Tugs~
-Lore Books
+
+Lore Books - So you can find out what's actually going on in here o_o [DEVNOTES CONFIGURE LORE BOOK PAGES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Lost and Fished - In case you lost something precious, you can now potentially retrieve it by fishing. Only works on new items you start to lose now, not already lost ones.
+Maiden's Merrymaking - A Minecraft Christmas and Winter Holiday Mod - Guess who made a resource pack for a bunch of mobs :D Next XMas will be a Litmas.
+Marigold Flower! - A small but pretty flower!
+MC style paintings - Make your decor a bit more meme-y, just add this Monobrow-lisa!
+
 Macaw's Paintings - Art! Art! Art!
-Measurements - Tired of counting blocks? use this Tape Measure!
-Mermod
+Measurements - Tired of counting blocks? Use this Tape Measure!
+Memory Usage Screen - If this is constantly red, you failed to set up enough RAM!
+Mermod - In case you wanted to know how it's like to have a fish tail?
 Metal Barrel - These barrels are metal. *headbanging noises*
-MineMention
-MineTogether - Time to bring back an oldie that makes it so much easier to ask for help!
-Missing Wilds
+
+Musical Instrument Minecraft Interface (MIMI) - "I'm a dirty boi, it's time to play piano!"
+MineMention - "/Hello @everyone", Click to reply.
+MineTogether - Time to bring back an oldie that makes it so much easier to ask for help! Watch out where you type commands, okay?
+(miraisoftloginmessages)Custom Login Messages - Another mod for login messages! [DEVNOTES CHECK COMPATIBILITY WITH OTHER MOD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Missing Wilds - The birch forest biome, that was scrapped. Here you go. Forget me not!
+
+(MMF)Multipart Machines: Farming - An efficient way to get crops. Needs energy.
 MmmMmmMmmMmm (Target Dummy) - That's a lot of damage. HOW ABOUT MORE :D
-MOA DECOR: ART
-MOA DECOR: COOKERY
-Mod List Paster
-Modpack Update Checker
-MrCrayfish's Furniture Mod - I'm sorry I'm a collectaholic. 
-Multipart Machines: Farming
+(mmode)Maintenance Mode - Serverside mod to set your server in Maintenance state. Adds a new backup option for this mode, too.
+(mmoparties)RPG Parties - Party up with your friends!
+MOA DECOR: ART - That's my easel!
+
+MOA DECOR: COOKERY - "Slice and dice! MWAHAHAHA!" - "Here's the soy sauce..."
+Mo' Advancemets - Bored of the current advancements (is that even possible?!?)? Here's 50 more!
+Modern Startup QOL - How long did my game take to load last time? ... Ah okay, still above average!
+Mod List Paster - "/modlist" to copy or "/modlist save" to save! Easy and very helpful. (Add "true" to command for A-Z order!)
+Modpack Update Checker - A new way to see the current state of the modpack! You can even go stalk my development progress now èwé
+
+Mom's Love - "I'm dead again :(((" Know somebody like this? Add them to a special list! "/mom love <playerName>" Now you can focus on other things! Enjoy!
+More Painting - Pretty wallpapers, too!
 NaNny - heal after health modification (might not fix everything)
 Neapolitan - Let's go totally bananas!
-Neko's Enchanted Books - Book retexture so it's not just enchanted purple glowy book #No.2473828.
+Neko's Enchanted Books - Book retexture so it's not just enchanted purple glowy book #No.2473828. 
+
+Netherite Horse Armor - Can't be destroyed by lava B)
 Nether's Delight - "Hell-O's, the cereals with some extra spice." LMAO. 
-NoChatLag
-NoCube's Chinchillas
-NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to. 
-Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget em)
+NoCube's Chinchillas - A little fluffy friend! Cactus, dead bush, grass, yummy!
+(nocube's) Farmer's Compats - Self explanatory.
+NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to.  
+
+Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget 'em)
+Now Playing - 
+
+
+
+
+
+
+
+
+(rsgauges) Gauges and Switches - "I like trains."
+
+
+
+
+
+
+
+
 Now Playing
-Oh My Gourd - Gourd evening, how can I carve you?
 Path Under Gates
 Peculiars
 Pineapple Delight - And suddenly: Pineapples!
@@ -304,7 +355,6 @@ Redirectionor (MAYBE NOT TEST THIS ONE!!!!!)
 Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE!
 Respiteful
 Roasted
-RPG Parties
 Rule Control (RC) - incompatible with FancyMenu/something else
 Seasonals
 Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
