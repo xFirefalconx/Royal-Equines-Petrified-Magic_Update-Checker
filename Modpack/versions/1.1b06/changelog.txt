@@ -78,16 +78,22 @@ Mixin In Heaven - Mixins added to the stacktrace!
 Modifier Key Fix - Stop calling the base key! Less trouble, woohoo!
 (NMPR)No More Poison with Regeneration - Cancels out each other upon same duration, because it makes more sense.
 NoChatLag - Fixes an issue with chat lag and freezes.
+Observable - More profiling! Press R to figure out what's causing lags. 
+Passive SearchBar - Search Bar isn't focussing your every input. No more "wwwassssddddda". Stop it. Get some help. 
 
+ReAuth - In case you manage to make your client invalidate your session... Re-Authentificate without having to restart. 
+Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situation by accident? Yeah, me too. I removed the default keybind - you can re-enable it though if you need the narrator. 
+Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
+Reforgium - Rubidium render optimizations
+Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
-
-
-
-
-
-
-Observable - More profiling! Figure out what's causing lags. 
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
+
+
+
+
+
+
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
 Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
 
@@ -209,7 +215,7 @@ Exit Confirmation - Thank you for this useful mod! No more accidental game close
 Exline's Awnings - Now with Corners! - Keeps the rain from your front door. 
 Exquisito - No *End* in sight, foods only!
 
-Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. [DEVLOG ANALYZE! MODPACK ISSUE SOMETHING BREAKS IT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. [DEVLOG INCOMPATIBILITY WITH DYAMIC SURROUNDINGS RESURRECTED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Fading Night Vision - Does what it says. No more sudden night vision.
 Fancy Chunks - Fading in chunks! Works best without shaders. 
 FancyMenu: Video Extension - Easter egg time >:)
@@ -324,15 +330,42 @@ NoCube's Chinchillas - A little fluffy friend! Cactus, dead bush, grass, yummy!
 NoMoWanderer - We wanted to reach you about your extended car warr- Ahem, traders show up only if you want them to.  
 
 Notes - Begone spacing out in front of your storage "What did I wanna do again?", write notes! (And then forget 'em)
-Now Playing - 
+Now Playing - Stop wondering, start knowing.
+OfflineSkins - Want to change your offline skin? Try adding one here: "Modpack/cachedImages/skins/UsernameHere.png" <- change "UsernameHere" to yours!
+(omd) Music Disc - Ocean Man - Is that kelp?!
+Omega Mute - Another mute mod [DEVLOG INCOMPATIBILITY WITH DYAMIC SURROUNDINGS RESURRECTED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+(onetwenty) Trails&Tales Backport - @Dev Fix your item prefixes! [DEVNOTES WRITE OWN MOD TO FIX "minecraft:" PREFIX ISSUE! INCOMPATIBILITY WITH REGIONS UNEXPLORED!!!!!!!]
+Panda Genetics Tweak - A little genetics mod by awesome sekelsta! Now all pandas can blep! 
+Path Under Gates - Finally a mod from 1.16.5 I liked is on 1.18.2! Go make your paths even longer!
+Peculiars - "Are you ever gonna stop adding food mods?" - "Maybe, one day. Hehe."
+Persistent - A new game rule and a new treasure enchantment! More time before things despawn, if enchanted! (default 20 min)
 
+Pet Tracker - *Right click a pet* "Have you seen my hen Minerva-Louise?" - "You know she's not tameable, right..."
+Pineapple Delight - And suddenly: Pineapples!
+PizzaCraft - "Nobody can rival my hunger!" - "Put the cheese down."
+Placeable Pumpkin Pie - Equality for pumpkin pies! 
+Placeable Items - Who left that potato in front of my doorstep?!?
 
+Platforms - More building items and tools! Use a platformer and wrench!
+(platformsigns) Numbered Wall Signs - Do you like to build train stations? You're now no longer outnumbered.
+Player Skills - Are we skilled or are we not? [DEVNOTES FIGUE OUT WHY THE DENIAL SKILL OF DIMENSION SKILLS ISN'T WORKING, KUBEJS ADDON MOD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Pop! - And another bubble bursted.
+Potatweaker - Do you tweak the potat or does the potat tweak you? [DEVNOTES READ WIKI AND TRY TO USE FOR FROG REPLACEMENT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+Primal: Reservation - Can you save them all?
+Primal Winter - Ignore this mod for now [DEVNOTES CHECK VIABILITY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Productive Bees - Honey, I waxed the copper!
+Pure Discs - Trails & Tales - Five new discs for y'all!
+Rakes - Perfect for your new Zen-Garden!
 
+Random Bone Meal Flowers - Bone meal should also produce modded plants, don't you think? Now we can get our favorite flowers!
+REBIRTH: Paintings - We have Mt. Fuji, and a white horse, and another white horse, and ano- a lot of paintings. 
+Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE! (Another case of "minecraft:" for own modded items, don't do that.)[DEVNOTES FIX MOD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Respiteful - "What is that?" - "tEa!" - "So... you made... tea... cake..."
+Restoration Stone - Your weapon is expensive to repair? Buy this consumable stone to reset the count!
 
-
-
+Roasted - Marshmallows... and a stick. 
 (rsgauges) Gauges and Switches - "I like trains."
 
 
@@ -342,19 +375,14 @@ Now Playing -
 
 
 
-Now Playing
-Path Under Gates
-Peculiars
-Pineapple Delight - And suddenly: Pineapples!
-PizzaCraft
-Placeable Items - Who left that potato in front of my doorstep?!?
-Pop!
-Random Bone Meal Flowers
-ReAuth
-Redirectionor (MAYBE NOT TEST THIS ONE!!!!!)
-Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE!
-Respiteful
-Roasted
+
+
+
+
+
+
+
+
 Rule Control (RC) - incompatible with FancyMenu/something else
 Seasonals
 Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
@@ -506,7 +534,7 @@ Xtra Arrows 2.4.3 -> 3.0.6
 
 
 
-Forge 40.2.9 -> 40.2.10
+Forge 40.2.9 -> 40.2.17
 
 
 
