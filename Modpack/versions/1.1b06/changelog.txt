@@ -1,4 +1,4 @@
-Version [1.1b06] [11.17.2023][01.12.2024]
+Version [1.1b06] [11.17.2023][01.25.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -39,7 +39,7 @@ Damage Tilt - If you tilt, at least do it the right way! Fixes an old bug! Cool 
 Dark Mode Everywhere - "Come to the dark side we have-" - "Don't say it!" - "... Cookies?" 
 DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
-Dimension Skills - In hope to fix a compatibility issue between Corail Tombstone tablets and Chunk By Chunk world gen... sheesh.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!]
+Dimension Skills - [DEVNOTES CHECK NECCESITY!!!!!!!!!!!!!!!!!!!!!!!!!]
 DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
 DrawerFPS - improve FPS on storage drawers that render items
 Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -88,17 +88,34 @@ Reforgium - Rubidium render optimizations
 Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
-
-
-
-
-
-
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
-Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
+Seamless - Beds and Doors have better outlines now. 
+Server Search Bar - "The singleplayer screen has a search bar, the multiplayer menu should have one too." - Agreed!
+SerializationIsBad - Fixing a 'recently' exposed security breach.
+
+(ServerPropertiesReload)Reload server.properties - "/properties reload" Have a dedicated server and want to change settings? You can reload them now. More commands see mod page.
+ServerSleep - player sleep percentage = 50% now!
+Shutdowner - Your server is hanging? Time to restart it with shutdowner! Might not fix it all but helps you hopefully!
+(smoothchunk) Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
+Spark - shall help detect lag causes and performance bottlenecks
 
 Structure Essentials - enhances operations around structures
-TellMe - DEVELOPMENT TOOL using commands 'n stuff.
+Stylish Effects - What am I suffering from? This displays the status effects more efficiently. 
+Suggestion Provider Fix - so you can just type "oak_seed" in your command bar and still find your item.
+TagFoods - "$food" to find some cool food in your JEI bar!
+TellMe - DEVELOPMENT TOOL using commands 'n stuff. It is useless for you players, but bugtesters might figure out something by using this mod, basically.
+
+TieFix - This mod is probably not going to work but in case it'll get a forge port or compatibility mod in the future - fixes lots of bugs, apparently. 
+
+
+
+
+
+
+
+
+
+
 XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
 
 
@@ -138,70 +155,72 @@ Butter(fly)fish Mod - You know this one fish fella, if you watched a certain mov
 Caelum - Look at the moon, isnt't it beautiful? If you can't use shaders because of various reasons, you can instead look at cool shooting stars, supernovae and true(r) moon phases!
 Cake Chomps - *nom nom* "Wha- have you seriously eaten all my cake?!"
 
+(slicesForge) Cake Slices - Divide your cake into small slices! Nom!
 Capy(bara mod) - If you have no use for sparkling watermelons or gold apples, you found your new target group! Or if riding pigs got too boring. 
 Car(Ultimate Car Mod) - I like horses, but maybe you like cars more! There you go. 
 Carpet Trapdoors - At least you can hide your mischievous places a tad better. Until people read the block name. 
 Caupona - I only understand Greek! Ah right, that's Greek cuisine! 
-Cfm (MrCrayfish's Furniture Mod) - You need more options to decorate your home? Try these! I'm sorry I'm a collectaholic. 
 
+Cfm (MrCrayfish's Furniture Mod) - You need more options to decorate your home? Try these! I'm sorry I'm a collectaholic. 
 Chalk - You are a lostie just like me? Try find your way home with chalk! Or just do a fun round of paper chase!
 Chat Bridge - Talk to people playing on another server!
 Chat Heads - Displays your head in chat, easy as that.
 Chat Stamps - When did I write that again? Ah right, at 30 PM. Wait, that's not right... 
-Chef's Delight - Come over, we got a free seat for ya!
 
+Chef's Delight - Come over, we got a free seat for ya!
 Cherished Worlds - "You are my one and only star!" - "You clicked the fave button again, didn't you."
 ChickenShed - A more realistic way of obtaining feathers. 
 Chorus Soda - Are... you really gonna drink that?!
 CoFH Core - A Library Mod! (Huh? Gourds??)
-Compat O' Plenty - Have a guess what this does :D
 
+Compat O' Plenty - Have a guess what this does :D
 Configurable Extra Mob Drops - I got a plan! A brilliant... time consuming... plan.... [DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Connectible Chains - Chained to the fence!
 Cookie Block - Finally a worthy storage for your calories!
 Cookielicious - "I am the cookie monster!" - "I told you not to eat ALL of them!"
-Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD? DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD? DEVNOTES !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Corail Tombstone - Thanks to Corail_31 for the fast bugfix with Chunk by Chunk! 
 Cosmetic Armor Reworked - Perfect for... pretty anything! Wanna record a video, or just play hide and seek with your friends without worry... Or just look fancy!
 Crafting Tweaks - *rotating the crafting grid*
 Create Train Additions - A few signals for your train tracks!
+
 Create Compressed - Save storage space!
 Create Recycle Everything - Who needs trash cans when you got this neat thing?! Get back goods from trashing your scraps woohoo!
-
 Create Confectionery - "I am the gingerbread man!" - "I am not even gonna ask what you did this time." - "I created candies! And chocolate! And gingerbread! And mar-" - "We get it."
 Create Compact Exp - "Who would like to give me the experience? Ah, chicken! I really appreciate your experience!" - Elppa in RLCraft
 Create Factory - "This manual says... uncooked... waffle...?!?"
+
 (Create) InfiniDrill - Drill your ores. Drill infinite amounts. [DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (Create:) Slice 'n Dice - Automate your kitchening further!
-
+(Create:) Steam 'n' Rails - Make some art, here's a jukebox cart!
 (Create:) Modern Train Parts - Here's a... container? What... are you aiming for?
 (Create:) Mounted Storages - More compatibility with contraptions! [CURRENTLY CRASHES WAITING FOR UPDATE DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Croptopia Additions - "Ramen!" - "Hot Dogs! - "Ramen!" - "Hot Dogs!" - "... Beans. On toat." - "The... what?!"
-DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
 
+DeathQuotes / Death Quotes - "I'm not saying that I'm keeping track of how many times you die, but..."
 DeathStats - Oop, there you died again, Death score +1
 Decorative Blocks - You'll find me in a haystack, maybe. Or not?
 Diagonal Fences - Time to build a round pen! Uh well, close enough. 
 Diagonal Windows - "Oh no you did it again..."
-Differentiate - Another library mod! 
 
+Differentiate - Another library mod! 
 Dimension Viewer - "Your friend is in Mars Orbit" - "I thought you... *suffocated*?!?"
 Ding - Now with horses snorting!
 Dismount Entity - Oh no, my panda is stuck in the boat! Well, not anymore! Make it dismount without hassle!
 Domestic(ation) Innovation - Currently incompatible with "Projectsavethepets"... Mayyybe somebody can... you know, change the 1000 priority?? Yes/no? [DEVNOTES !!!!!!!!!]
-Double Doors - Shift right click to open just one, okay?
 
+Double Doors - Shift right click to open just one, okay?
 Drip Sounds - Now you can listen to the skies crying properly~ (Rain, you mean rain!)
 Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES FIND CAUSE FOR CUTTING TREE CRASH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Dynamic Trees - Hexerei - Willow, willow, got a crow feather under my pillow~
 Dynamic Trees - Neapolitan - Bananananananaa  
-Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
 
+Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
 Eating Animation - I have half a sandwich and it's all mine! And now it's gone :D
 Effortless Building - Stop placing blocks one by one! Switch modes by holding ALT. 
 Einstein's Library - A library mod (oh surprise).
-Ender Crop - Four ender pearls for an XP tome... Do enderman subconsciously avoid you? Afraid of Endermen? Try this peaceful method!  
-Endless Biomes - The End of biomes! Just kidding. Penumbral Forests, I just had to add this mod. Show me your builds if you *end* up finding one!
+Ender Crop - Four ender pearls for an XP tome... Do enderman subconsciously avoid you? Afraid of Endermen? Try this peaceful method!  Endless Biomes - The End of biomes! Just kidding. Penumbral Forests, I just had to add this mod. Show me your builds if you *end* up finding one!
 
 End Portal Parallax - I missed this old animation style! Gives me less headache. 
 End's Delight - That's my chorus pie!
@@ -243,7 +262,7 @@ Gardenaganza - More flowers for the gardeners among us!
 Golems Are Friends Not Fodder - Villagers take care of their strong friends, like they should.
 Gourds Fix - Now this is where we *stem* from. 
 (Oh My) Gourd - "Gourd evening, how can I carve you? Oh thy light, may it shine to guard our mighty gourd forever!" - "That's enough. Give me the shears and the lighter."
-GraveStone Mod - [Corail Tombstone deactivated until further notice] - This mod might get replaced by Corail Tombstone, but it's bugged with Chunk by Chunk atm so I picked a simple "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether we can have Corail some day, depends on the mod devs. Let's hope for the best!
+GraveStone Mod - Second "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether you use this or Corail is up to you! Deactivated to avoid issues.
 
 Grouping & Sorting for Waystones - Easier to see how many homes and how many beehive waystones you have now. Or villages, weird mansions, underwater castles... you get it.
 Help Wanted - "Don't. Those are my emeralds!" - "But we need a farmer! Now! And you said I can't use a diamond one." - "Use gold, okay. And only ONCE."
@@ -367,34 +386,38 @@ Restoration Stone - Your weapon is expensive to repair? Buy this consumable ston
 
 Roasted - Marshmallows... and a stick. 
 (rsgauges) Gauges and Switches - "I like trains."
+Rule Control (RC) - "/rc menu" to open GUI!
+S33R Butterfly Paintings - Pretty little paintings
+Screenshot Viewer - View your screenshots while still in-game! [DEVNOTES MONITOR ISSUE PROGRESS ON GRAY WHITE PIXELS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rule Control (RC) - incompatible with FancyMenu/something else
-Seasonals
+Seasonals - Time for me to enhance the food abundance trauma! :'D
 Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
-SerializationIsBad - Fixing a recently exposed security breach.
-ServerSleep
-Showcase Item
-Shutdowner
-SoulHome
-Stylish Effects
-Suggestion Provider Fix
+ShetiPhianCore - Library Mod [DEVNOTES IS THIS MOD NEEDED??? IT'S DEACTIVATED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Shortage Block Collection - Look at this pretty bamboo fence! And more!
+Sign Button - Signs can be crafted into sign-buttons!
+
+SimpleAFK - Adds a better afk management for servers!
+Soul Bound Enchantment - If you enchant your fave item with this, you will only lose some durability but it'll stay with you upon death! (Or set it to 0 in configs)
+SoulHome - Are you tired of having no place to call your home? Craft a soulkey and open the doors to your very own SoulHome! This is your safe area, no intruders allowed!
+Soundtrack Discs - "This mod adds in music discs of the old Minecraft OST." - Nice!
+Starks - A new helmet enchantment to help your pets even more!
+
+Statement Library - Library Mod
+Storage Drawers - More solutions to create YOUR ideal storage. 
+Sweet Boreal - There's a moose on the loose!
+Table Top Craft - Life's like a game of chess. I don't know how to play chess.
+That's Just Peachy! - "... Peaches!" - "Does she... want a fruit salad?!"
+
 Tiny Redstone - because you know the placement struggle, I know the struggle, everybody knows the struggle.
-Toggle Enchantments - mods got split from original mod, re-implementing.
+Toggle Enchantments - "On! Off! On! Off!" - "Stop playing with the light switch!"
+
+
+
+
+
+
+
+
 Tree Bark + - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
 Tree breeding - breed special tree kinds if you look for a specific kind. Not compatible with all mods.
 Tree Harvester - Crouch and destroy one wooden block with an axe, see the whole tree go poof!
@@ -409,7 +432,7 @@ WYML (Why You Make Lag)
 
 Debugging:
 Load My F***ing Tags (Minecraft stone was not mineable at all, whoopsie. To prevent future hiccups this will stay in and help debug such situations)
-spark (helps detect lag causes and performance bottlenecks, hopefully)
+
 
 Dependencies
 The Twilight Forest Mod
