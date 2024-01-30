@@ -1,9 +1,13 @@
-Version [1.1b06] [11.17.2023][01.25.2024]
+Version [1.1b06] [11.17.2023][01.30.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
 
 (Where did my old log from December go? Well... let's write a new one \(-_-)/ *dies inside* Ahem. Due to this, I'll rearrange my changelogs a little for better readability - hope you like it!)
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 New mods added. 
 
@@ -34,90 +38,86 @@ Crash Utilities - More analytical mods for crashy situations.
 CullLessLeaves Reforged - Time to torment our pcs by increasing leaf amount! Or... don't :D
 
 Cupboard - Not what the name says, debugging stuff
+Custom Credits - Now we can write our own ending! ["/credits show" to debug! DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Cyanide - Finally datapacks are not some foreign wizardry... or at least if you screw up, you'll know where you did. 
 Damage Tilt - If you tilt, at least do it the right way! Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
 Dark Mode Everywhere - "Come to the dark side we have-" - "Don't say it!" - "... Cookies?" 
-DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+DeLogger - Debug stuff. Remove annoying log messages. Pudding. [DEVLOG USE THIS PROPERLY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Dimension Skills - [DEVNOTES CHECK NECCESITY!!!!!!!!!!!!!!!!!!!!!!!!!]
 DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
 DrawerFPS - improve FPS on storage drawers that render items
 Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Dynamic View - Balances TPS and simulation distance
 
+Dynamic View - Balances TPS and simulation distance
 Enhanced Block Entities Reforged (Unofficial) - Another mod to increase your FPS! Makes rendering chests faster.
 Entity Culling - You can't see me? I don't get rendered. 
 (ez)Entity Zoning Supervisor - Another mod for my plans [DEVLOG REMOVE IF IT WORKS WITH THE OTHERS !!!!!!!!!!!!!!!!!!!! CAN CHANGE LOOT TABLES!!!!!!!!!!!!!!!!!!!!!!!!!]
 Farsight - "Finally, I can see!" - "Found your eyeglass, eh?"
-FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
 
+FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
 Feature NBT Deadlock Be Gone - In case you corrupted your world with such a thing, here's your savior!
 Fix Race Condition - Fixes a canary related bug (if still existing).
 Fix DS_Store Crash - I don't use macos but if you do, maybe this prevents some crashes with kubejs. 
 Flame Sweeping Potato Edition - This combines Fire Aspect with Sweeping Edge.
-FlowingFluidFixer - Got no flowing version, no problem.
 
+FlowingFluidFixer - Got no flowing version, no problem.
 ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW! DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
 FullStack Watchdog - Serverside mod to show full error stacktrace. [DEVNOTES SHOULD THIS WORK IN SINGLEPLAYER IF YES MAKE GITHUB ISSUE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 fix GPU memory leak - in case your GPU does wonky stuff
-ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, original dev doesn't support 1.18.2 at all and this dev abandoned it, but at least we have this.
 
+ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, original dev doesn't support 1.18.2 at all and this dev abandoned it, but at least we have this.
 JEITweaker - A JEI/CraftTweaker support mod 
 JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
 JourneyMap Server - "Provides a way for journeymap to identify worlds on bungeecord servers."
 Leaky - Farm leak detection - Collect your loot or the game does.
-Lightspeed - Launch optimizations - decreases launch time by a bit. (48-71% according to dev?!) 
 
+Lightspeed - Launch optimizations - decreases launch time by a bit. (48-71% according to dev?!) 
 Limited Chunkloading - Chunk cleanup - Serverside mod, you log off, your chunks unload. Helps boost server performance.
-Load My F***ing Tags - This mod is for debugging but since some issues might stay, it at least keeps compatibility where it would break due to cooked tags. Not looking at Planeteer Core...
+Load My F***ing Tags - (Minecraft stone was not mineable at all, whoopsie. To prevent future hiccups this will stay in and help debug such situations) This mod is for debugging but since some issues might stay, it at least keeps compatibility where it would break due to cooked tags. Not looking at Planeteer Core...
 MemoryLeakFix (might be outdated)
 (MinecraftClientGobrrr)Game window go brrr - Forces Minecraft Window to show up earlier. No more confusion whether it's loading or not!
-Mixin In Heaven - Mixins added to the stacktrace!
 
+Mixin In Heaven - Mixins added to the stacktrace!
 Modifier Key Fix - Stop calling the base key! Less trouble, woohoo!
 (NMPR)No More Poison with Regeneration - Cancels out each other upon same duration, because it makes more sense.
 NoChatLag - Fixes an issue with chat lag and freezes.
 Observable - More profiling! Press R to figure out what's causing lags. 
-Passive SearchBar - Search Bar isn't focussing your every input. No more "wwwassssddddda". Stop it. Get some help. 
 
+Passive SearchBar - Search Bar isn't focussing your every input. No more "wwwassssddddda". Stop it. Get some help. 
 ReAuth - In case you manage to make your client invalidate your session... Re-Authentificate without having to restart. 
 Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situation by accident? Yeah, me too. I removed the default keybind - you can re-enable it though if you need the narrator. 
 Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 Reforgium - Rubidium render optimizations
-Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
+Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
 Seamless - Beds and Doors have better outlines now. 
 Server Search Bar - "The singleplayer screen has a search bar, the multiplayer menu should have one too." - Agreed!
-SerializationIsBad - Fixing a 'recently' exposed security breach.
 
+SerializationIsBad - Fixing a 'recently' exposed security breach.
 (ServerPropertiesReload)Reload server.properties - "/properties reload" Have a dedicated server and want to change settings? You can reload them now. More commands see mod page.
 ServerSleep - player sleep percentage = 50% now!
 Shutdowner - Your server is hanging? Time to restart it with shutdowner! Might not fix it all but helps you hopefully!
 (smoothchunk) Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
-Spark - shall help detect lag causes and performance bottlenecks
 
+Spark - shall help detect lag causes and performance bottlenecks
 Structure Essentials - enhances operations around structures
 Stylish Effects - What am I suffering from? This displays the status effects more efficiently. 
 Suggestion Provider Fix - so you can just type "oak_seed" in your command bar and still find your item.
 TagFoods - "$food" to find some cool food in your JEI bar!
+
 TellMe - DEVELOPMENT TOOL using commands 'n stuff. It is useless for you players, but bugtesters might figure out something by using this mod, basically.
-
 TieFix - This mod is probably not going to work but in case it'll get a forge port or compatibility mod in the future - fixes lots of bugs, apparently. 
+Translucency Fix - A Mod that helps with translucent HUD and GUI display.
+Underwater Enchanting - Enchanting Tables work underwater now. 
+Water Walking Fix - Fixes bugs. "I believe that I can walk on oil!" - "Wrong line. It's water, not oil."
 
-
-
-
-
-
-
-
-
-
+WYML (Why You Make Lag) - Pack dev:"Bro, why you make lag?" WYML:"Because..." - It's just a debug tool and I am using it like the fool that I am - wrong. [DENOTES LOOK AT THIS, CONFIGS !!!!!!!!!!!!!!]
 XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
-
+(ylssln)Your Log Saw Something Last Night - Now it is scared. A server Admin tool to monitor players' (mis)behavior. You can deactivate it if you like! Configs available!
 
 
 
@@ -157,7 +157,7 @@ Cake Chomps - *nom nom* "Wha- have you seriously eaten all my cake?!"
 
 (slicesForge) Cake Slices - Divide your cake into small slices! Nom!
 Capy(bara mod) - If you have no use for sparkling watermelons or gold apples, you found your new target group! Or if riding pigs got too boring. 
-Car(Ultimate Car Mod) - I like horses, but maybe you like cars more! There you go. 
+Car(Ultimate Car Mod) - If you prefer this to horses, you can now utilize it! Vroom vroom! 
 Carpet Trapdoors - At least you can hide your mischievous places a tad better. Until people read the block name. 
 Caupona - I only understand Greek! Ah right, that's Greek cuisine! 
 
@@ -410,40 +410,53 @@ That's Just Peachy! - "... Peaches!" - "Does she... want a fruit salad?!"
 
 Tiny Redstone - because you know the placement struggle, I know the struggle, everybody knows the struggle.
 Toggle Enchantments - "On! Off! On! Off!" - "Stop playing with the light switch!"
+Trade Uses - Hover over trades! "Uses left: 12." 
+Tree breeding - 2+2=5 (obviously, that is false)... So basically you can craft tree saplings through combination. 
+Tree Bark + - accidently unbarked a block? No problem, put it back on. I also added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
 
-
-
-
-
-
-
-
-Tree Bark + - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
-Tree breeding - breed special tree kinds if you look for a specific kind. Not compatible with all mods.
 Tree Harvester - Crouch and destroy one wooden block with an axe, see the whole tree go poof!
-Twilight Delight 
-Ultimate Car Mod - If you prefer this to horses, you can now utilize it! Vroom vroom!
+Tre's Tack Shop - A SWEM Add on - I want pretty blankets, and I want to adorn my Royal Equines with all of them. You did an incredible job with this mod. Here's it for everybody!
+Trofers - Adds trophies! Now you can also place down whatever you hunted on your journey. Well, if it drops, that is.
+Truly Custom Horse Tack - I just stumbled upon this mod and it looks so adorable, I had to add it! Even compatible with RHG! 
+Twilight Decor - More decorative blocks featuring Twilight Forest Mod!
+
+Twilight Delight - Food that is right from the twilight zone!
+(The) Twilight Forest - Yes, finally we can go to a place where you get toasted by acid rain! Ahem, just kidding (am I?). It's a beautiful place, if you know how to thrive there.
+Undo! - Press "Ctrl+Z" to get back the last block you placed!
+Vanilla Cookbook - Brownie tray, yay~
+Water condenser - You're stranded in a place without water? Maybe we can use this. 
+
+WATERMeDIA: Multimedia API - Shhh. You'll figure out why I needed this if you click around the UI a bit :> (Btw, did anyone find any easter eggs yet? Hehe.)
 Water Strainer - More ways to obtain resources, now with water!
-WATERMeDIA: Multimedia API
-What's That Slot?
-WYML (Why You Make Lag)
+Welcome Message - Welcome to the chat! Eh... I need to tweak that line. [DEVLOG EDIT CONFIGS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Just a Well - Well, well, what do we have here? 
+What's That Slot? - I don't know! Maybe this mod does? Hold down "Left-Alt"!
+
+Wily Textiles - Use some Twine, make textiles so fine!
+WITS (What Is This Structure?) - Use your "/wits" and you might know now!
+(DragN's) XC Jumps! - Have you ever dreamed of making a cross country track? DO IT! LIVE YOUR DREAMS NOW!
+Ylf : your flying pet - OMG is this cute! A little friendly critter, not too glittery, but much helpful in defending yourself! Make sit, little Ylf!
+Zetter — Painting Mod - Paint away! Lead all your daily woes astray~
+
+Zetter Gallery — Share Paintings - May I see what you created, too? 
 
 
 
-Debugging:
-Load My F***ing Tags (Minecraft stone was not mineable at all, whoopsie. To prevent future hiccups this will stay in and help debug such situations)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-Dependencies
-The Twilight Forest Mod
-Beyond Planets Core [Alpha Update of Planeteer - Core release, registers as different mod]
+[Testing New Mods:]
+<empty>
 
 
 
-[Testing: IN PROGRESS]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Added Datapacks** (aka put in /config/openloader/data/)
+Trofers Compat Datapack - A compat datapack for trofers. More trophies, yay!
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Added Resourcepacks**
 [Rough testing done. Report bugs about entities with weird textures. I'll see what I can do.]
@@ -473,8 +486,25 @@ Entity Texture Models [ETM]
 
 xali's Potions [needs CITResewn-1.1.1.jar for 1.18.2, I will try to implement it but since it's not uploaded on Curseforge, it might be denied. Fingers crossed! Otherwise, download it from the Rubidium Discord server!]
 
+ChirpNoMore_Resources - This pack replaces some (imho annoying) sounds, feel free to look inside the folder to investigate. If you don't want these sounds overwritten, remove them from the folder. 
 
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAUTION REGARDING RESOURCE PACK MANAGEMENT!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[WARNING!] .ogg files are difficult and slow to move/remove/change on Windows 10. 
+[WARNING!] Removing resource packs from the active stack in-game is also not advised - YOUR PC MIGHT FREEZE ENTIRELY IF YOU TRY TO RELOAD RESOURCE PACKS ON RUNTIME!!! 
+***I hereby WARNED you!*** SAVE ANY FILES YOU MIGHT LOSE (open documents, open projects, other) *IF* *AND* *BEFORE* ATTEMPTING ANYTHING IN MINECRAFT!
+Change the resource packs at YOUR OWN RISK!!! - If Curseforge adds an out of game editor, this might be a soon to be removed worry. NOT IN SIGHT YET.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAUTION REGARDING RESOURCE PACK MANAGEMENT!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mod Updates
 
@@ -512,7 +542,7 @@ ftbbackups2 1.0.19 -> 1.0.22
 itemcollectors 1.1.7 -> 1.1.8
 itemlocks 1.3 -> 1.3.3
 keepmysoiltilled 2.0 -> 2.1
-locksmith 1.0.3 -> 1.1.1
+locksmith 1.0.3 -> 1.1.1 [Server owners: Disable lockpicking in the configs here, if you want.]
 marjrusz library 4.3.2 -> 5.1.2
 marjrusz accesoires 1.2.2 -> 1.2.3
 maxhealthfix 5.0.1 -> 5.0.4
@@ -554,65 +584,28 @@ villagernames 5.2 -> 7.0
 villagespawnpoint 4.0 -> 4.1
 Xtra Arrows 2.4.3 -> 3.0.6
 
-
-
-
 Forge 40.2.9 -> 40.2.17
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dungeon Crawl
-Minecard
-Farmer's Delight
-Biomes O' Plenty
-Apotheosis
-SuperMartijn642's Core Lib
-SuperMartijn642's Config Lib
-Item Collectors
-Chunk Loaders
-Connected Glass
-Diagonal Fences [Forge & Fabric]
-Pehkui
-MMLib
-Sophisticated Storage
-Sophisticated Core
-Sophisticated Backpacks
-Max Health Fix
-Delightful
-Spells & Shields
-Moonlight Lib/Selene
-FancyMenu
-CraftPresence
-SWPM
-SWLM
-SWEM
-SWEconM
-SWDM
-Puzzles Lib
-Merge Enchantments
-Locksmith [DEVNOTES NEED TO CHECK KEYBINDINGS AND REMOVE IF POSSIBLE]
-Dynamic Trees
-Dynamic Trees +
-Dynamic Trees BOP
-Macaw's Doors
-Collective
-Cloth Config API
-Iris & Oculus Flywheel Compat
+[Cannot update due to issues/crashes]
 Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
 
-Chinjufu Mod
-
-[Testing: DONE]
+[Testing Update:]
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Re-Activated Mods
 
 <empty>
 
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Inactive Mods (Aka I either wait for an update or implement them in the next update, instead.)
 
@@ -627,10 +620,15 @@ Better Tags (Development tool, activate if you are helping with debugging)
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Mod Replacements
 
 <empty>
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Mods that will be removed in the future
 
@@ -640,6 +638,8 @@ Verdure *might* be removed if the planned overhaul will not release/backport for
 Villager Workers (if you still want to use this mod in the future, you'll need to add it back to the package. You can open up a vote issue on my CF page if you are against the removal, I'll decide based on your contributions.)
 
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Config Updates
 
@@ -654,6 +654,8 @@ Adjusted Sodium graphics settings to be suited for lower end machines (this does
 Small jei-client.ini adjustments.
 Added "swpm-server.toml" to defaultconfigs. Edit to your liking in your own worlds. Existing worlds don't get overwritten by this, check them manually.
 ding.toml - Added "Ding!" sound of horse idle. 
+BadMobs enabling Magpies spawn again. 
+Edited Dynamic Surroundings keybind for sound settings to num lock key. 
 
 [DEVNOTES]
 [todo]
@@ -664,6 +666,8 @@ ITLT config 1.1b06
 [done]
 
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Shaderpack Config Updates
 
@@ -676,6 +680,8 @@ As always, if you find objects that don't move in the wind as they should, press
 
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Functionality additions
 
 Added prototype for playstyle choice layout (mac OS/Linux users: I am not sure if this works for you. DM me if you got problems.) (If anybody again deletes mods because of the main mechanic, petrification, good luck but your game is incompatible with your friends'. Learn from your mistakes and just disable it in the config. Why do people play a pack that is supposed to make things grindy and then disable the grind? Well, either way, ungrind your world if you so desire. Just do it PROPERLY by using the new GUI. I warned you hereby.)
@@ -687,6 +693,9 @@ New button to reach Notes mod easier and without a hotkey!
 Added button to survival and creative inventory to change JEI settings as a temporary fix for Configured not working properly. USE WITH CAUTION. 
 
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Known issues
 
 Nav Buttons in Beginners' Guide don't work like they should. I'm annoyed so I'll fix it later. Or never, idk. 
@@ -694,11 +703,13 @@ Minecraft wooden chest is not pickable by CarryOn (carryon-1.18.2-1.17.1.12), ot
 Sometimes blocks don't render anymore (due to unknown reasons), leave the world and re-join it should be fixed. 
 The music from 1,000,000 times might still play in main menu. Try to go back and forth to its GUI to fix it. 
 XPFromHarvest doesn't work on some crops - I am still trying to debug this. Reach out if you got time and want to help me. 
-SoulKeys teleport you... and then crash. I've reported this already.
-There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
+[DEVNOTES MIGHT BE FIXED!!!!!!!!!!!!]There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
 Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
 And maaaybe the KubeJS scripts are not working correctly. I'm on it. 
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Other future changes
 Mod updates! Hopefully more bugfixes. Maybe a few new mods, depending on what the devs hold in store. 
