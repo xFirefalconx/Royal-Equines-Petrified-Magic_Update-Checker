@@ -1,4 +1,4 @@
-Version [1.1b06] [11.17.2023][01.31.2024]
+Version [1.1b06] [11.17.2023][02.03.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -520,7 +520,7 @@ Better Tag Tips 1.0 -> 1.1
 bettervillage 3.1.0 -> 3.2.0
 BiomesO'Plenty 16.0.0.109-universal -> 16.0.0.134
 biomespawnpoint 2.0 -> 2.1 
-Canary 0.2.3 -> 0.2.4
+Canary 0.2.3 -> 0.3.2
 CarryOn 1.17.1.11 -> 1.17.1.12
 Chimes 1.1.2 -> 2.0.1
 chinjufumod 6.3.2 -> 6.4.1
@@ -596,7 +596,7 @@ Forge 40.2.9 -> 40.2.17
 Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
 
 [Testing Update:]
-canary-mc1.18.2-0.2.4.jar -> canary-mc1.18.2-0.3.2.jar
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
