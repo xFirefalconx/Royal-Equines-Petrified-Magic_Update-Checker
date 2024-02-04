@@ -1,4 +1,4 @@
-Version [1.1b06] [11.17.2023][02.03.2024]
+Version [1.1b06] [11.17.2023][02.04.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -218,7 +218,7 @@ Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES CT
 
 Dynamic Trees - Hexerei - Willow, willow, got a crow feather under my pillow~
 Dynamic Trees - Neapolitan - Bananananananaa  
-Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so.)
+Dynmap - this only works on servers, not clients. use Journeymap's webmap function for client side. (Deactivated because it crashes. No clue why so. TODO !!!!!!!!!!!!!!!)
 Eating Animation - I have half a sandwich and it's all mine! And now it's gone :D
 Effortless Building - Stop placing blocks one by one! Switch modes by holding ALT. 
 
@@ -596,7 +596,7 @@ Forge 40.2.9 -> 40.2.17
 Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
 
 [Testing Update:]
-
+weaponleveling 1.4.3 -> 2.1.0
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -618,6 +618,10 @@ Real Time Mod (Waiting for option to globally disable day/night cycle synch and 
 Spice of Life: Carrot Edition (Apple pie replaces this mod, will keep it in there if things don't work out for some reason.)
 Better Tags (Development tool, activate if you are helping with debugging)
 Connected Textures Mod (Crash when pressing R in JEI https://github.com/Chisel-Team/ConnectedTexturesMod/issues/227)
+GraveStone Mod (Alternative for Corail Tombstone)
+Dynmap (Incompatibilities + Serverside, should we remove this? TODO)
+ForgetMeChunk (Waiting for Update to fix memory leak)
+Dual Riders (Is this actually necessary or does unordinary basics already ship the function? TODO)
 
 
 
