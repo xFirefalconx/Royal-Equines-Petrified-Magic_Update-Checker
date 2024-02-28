@@ -82,39 +82,40 @@ MemoryLeakFix (might be outdated)
 Mixin In Heaven - Mixins added to the stacktrace!
 Modifier Key Fix - Stop calling the base key! Less trouble, woohoo!
 NaNny - heal after health modification (might not fix everything)
+Neruina - Ticking Entity Fixer - This makes blocks that cause ticking crash stop ticking and entities... RIP. If your villager dies because he ate an apple (oops why?!? TODO) now, use "Help Wanted" signs!
 (NMPR)No More Poison with Regeneration - Cancels out each other upon same duration, because it makes more sense.
-NoChatLag - Fixes an issue with chat lag and freezes.
 
+NoChatLag - Fixes an issue with chat lag and freezes.
 Observable - More profiling! Press R to figure out what's causing lags. 
 Passive SearchBar - Search Bar isn't focussing your every input. No more "wwwassssddddda". Stop it. Get some help. 
 ReAuth - In case you manage to make your client invalidate your session... Re-Authentificate without having to restart. 
 Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situation by accident? Yeah, me too. I removed the default keybind - you can re-enable it though if you need the narrator. 
-Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 
+Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 Reforgium - Rubidium render optimizations
 Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
-Seamless - Beds and Doors have better outlines now. 
 
+Seamless - Beds and Doors have better outlines now. 
 Server Search Bar - "The singleplayer screen has a search bar, the multiplayer menu should have one too." - Agreed!
 SerializationIsBad - Fixing a 'recently' exposed security breach.
 (ServerPropertiesReload)Reload server.properties - "/properties reload" Have a dedicated server and want to change settings? You can reload them now. More commands see mod page.
 ServerSleep - player sleep percentage = 50% now!
-Shutdowner - Your server is hanging? Time to restart it with shutdowner! Might not fix it all but helps you hopefully!
 
+Shutdowner - Your server is hanging? Time to restart it with shutdowner! Might not fix it all but helps you hopefully!
 (smoothchunk) Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
 Spark - shall help detect lag causes and performance bottlenecks
 Structure Essentials - enhances operations around structures
 Stylish Effects - What am I suffering from? This displays the status effects more efficiently. 
-Suggestion Provider Fix - so you can just type "oak_seed" in your command bar and still find your item.
 
+Suggestion Provider Fix - so you can just type "oak_seed" in your command bar and still find your item.
 TagFoods - "$food" to find some cool food in your JEI bar!
 TellMe - DEVELOPMENT TOOL using commands 'n stuff. It is useless for you players, but bugtesters might figure out something by using this mod, basically.
 TieFix - This mod is probably not going to work but in case it'll get a forge port or compatibility mod in the future - fixes lots of bugs, apparently. 
 Translucency Fix - A Mod that helps with translucent HUD and GUI display.
-Underwater Enchanting - Enchanting Tables work underwater now. 
 
+Underwater Enchanting - Enchanting Tables work underwater now. 
 Water Walking Fix - Fixes bugs. "I believe that I can walk on oil!" - "Wrong line. It's water, not oil."
 WYML (Why You Make Lag) - Pack dev:"Bro, why you make lag?" WYML:"Because..." - It's just a debug tool and I am using it like the fool that I am - wrong. [DENOTES LOOK AT THIS, CONFIGS !!!!!!!!!!!!!!]
 XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
