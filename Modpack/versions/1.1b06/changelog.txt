@@ -38,21 +38,21 @@ Crash Utilities - More analytical mods for crashy situations.
 CullLessLeaves Reforged - Time to torment our pcs by increasing leaf amount! Or... don't :D
 
 Cupboard - Not what the name says, debugging stuff
-Custom Credits - Now we can write our own ending! ["/credits show" to debug! TODO DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Custom Credits - Now we can write our own ending! ["/credits show" to debug! TODO DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Cyanide - Finally datapacks are not some foreign wizardry... or at least if you screw up, you'll know where you did. 
 Damage Tilt - If you tilt, at least do it the right way! Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
 Dark Mode Everywhere - "Come to the dark side we have-" - "Don't say it!" - "... Cookies?" 
 
 DeLogger - Debug stuff. Remove annoying log messages. Pudding.
 Dimension Skills - [DEVNOTES CHECK NECCESITY TODO !!!!!!!!!!!!!!!!!!!!!!!!!]
-DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
+DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
 DrawerFPS - improve FPS on storage drawers that render items
 Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Dynamic View - Balances TPS and simulation distance
 Enhanced Block Entities Reforged (Unofficial) - Another mod to increase your FPS! Makes rendering chests faster.
 Entity Culling - You can't see me? I don't get rendered. 
-(ez)Entity Zoning Supervisor - Another mod for my plans [DEVLOG REMOVE IF IT WORKS WITH THE OTHERS TODO !!!!!!!!!!!!!!!!!!!! CAN CHANGE LOOT TABLES!!!!!!!!!!!!!!!!!!!!!!!!!]
+(ez)Entity Zoning Supervisor - Another mod for my plans [DEVLOG REMOVE IF IT WORKS WITH THE OTHERS TODO !!!!!!!!!!!!!!!!!!!! CAN CHANGE LOOT TABLES!!!!!!!!!!!!!!!!!!]
 Farsight - "Finally, I can see!" - "Found your eyeglass, eh?"
 
 FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
@@ -62,7 +62,7 @@ Fix DS_Store Crash - I don't use macos but if you do, maybe this prevents some c
 Flame Sweeping Potato Edition - This combines Fire Aspect with Sweeping Edge.
 
 FlowingFluidFixer - Got no flowing version, no problem.
-ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW! DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
+ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW! DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
 FullStack Watchdog - Serverside mod to show full error stacktrace. [DEVNOTES FIND MOD THAT STACKTRACES IN SINGLEPLAYER TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 fix GPU memory leak - in case your GPU does wonky stuff
@@ -93,7 +93,7 @@ Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situ
 
 Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 Reforgium - Rubidium render optimizations
-Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
 
@@ -143,11 +143,11 @@ Better Server GUI - ms/t graphs! command suggestions!
 Beyond Earth: Giselle Addon - To the promised land! To Mars! *suffocates*
 Beyond Planets Core/Planeteer - Core - You know this mod from Alpha phase, where Pickaxes suddenly wouldn't work because of cooked tags. Oopsie. Hope it's fixed soon! LMFT helped me out!
 Beyond Planets Dimensions/Planeteer - Dimensions - A mod with hopefully a lot of potential! New planets! We are going further outerspace!
-Biome Music - Play a cold piece of music! What? Frozen?! [CURRENTLY CRASHES FIND CAUSE DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Biome Music - Play a cold piece of music! What? Frozen?! [CURRENTLY CRASHES FIND CAUSE DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 Biomes in Jars [EDIT CONFIG TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!] [ADD KUBEJS RECIPES TO CRAFT DUPLICATES WITH THE EXCESS ORES FROM SIEVING IN EX NIHILO???][DEVNOTES TODO!!!!!!!!!!]
 Biomes O' Bark - accidently unbarked a block? No problem. I added a config update so you can craft Farmer's Delight bark from this item, give it a bit more usability.
-BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)[DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)? remove deep end/warden of backport?)[DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Bitems - Bilingual Items - You wanted to learn a language while playing Minecraft? Now you... can! You have to set the language, though. It's set to en_us by default.
 BlackAuresPaintings/Paintings with Dragons - I just HAD to when I saw those paintings! Fellow artist support! I love dragons, do you too?
 
@@ -182,7 +182,7 @@ Connectible Chains - Chained to the fence!
 Cookie Block - Finally a worthy storage for your calories!
 
 Cookielicious - "I am the cookie monster!" - "I told you not to eat ALL of them!"
-Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Copper Armor & Tools [REPLACEMENT FOR OTHER COPPER ARMOR MOD? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Corail Tombstone - Thanks to Corail_31 for the fast bugfix with Chunk by Chunk! 
 Cosmetic Armor Reworked - Perfect for... pretty anything! Wanna record a video, or just play hide and seek with your friends without worry... Or just look fancy!
 Crafting Tweaks - *rotating the crafting grid*
@@ -194,7 +194,7 @@ Create Confectionery - "I am the gingerbread man!" - "I am not even gonna ask wh
 Create Compact Exp - "Who would like to give me the experience? Ah, chicken! I really appreciate your experience!" - Elppa in RLCraft
 
 Create Factory - "This manual says... uncooked... waffle...?!?"
-(Create) InfiniDrill - Drill your ores. Drill infinite amounts. [DEVNOTES CONFIGURE THIS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+(Create) InfiniDrill - Drill your ores. Drill infinite amounts. [DEVNOTES CONFIGURE THIS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (Create:) Slice 'n Dice - Automate your kitchening further!
 (Create:) Steam 'n' Rails - Make some art, here's a jukebox cart!
 (Create:) Modern Train Parts - Here's a... container? What... are you aiming for?
@@ -215,7 +215,7 @@ Dismount Entity - Oh no, my panda is stuck in the boat! Well, not anymore! Make 
 Domestic(ation) Innovation - Currently incompatible with "Projectsavethepets"... Mayyybe somebody can... you know, change the 1000 priority?? Yes/no? [DEVNOTES TODO !!!!!!!!!]
 Double Doors - Shift right click to open just one, okay?
 Drip Sounds - Now you can listen to the skies crying properly~ (Rain, you mean rain!)
-Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES CTM CULPRIT YES/NO? FOR CUTTING TREE CRASH TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES CTM CULPRIT YES/NO? FOR CUTTING TREE CRASH TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 Dynamic Trees - Hexerei - Willow, willow, got a crow feather under my pillow~
 Dynamic Trees - Neapolitan - Bananananananaa  
@@ -237,7 +237,7 @@ Exit Confirmation - Thank you for this useful mod! No more accidental game close
 
 Exline's Awnings - Now with Corners! - Keeps the rain from your front door. 
 Exquisito - No *End* in sight, foods only!
-Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. [DEVLOG INCOMPATIBILITY WITH DYAMIC SURROUNDINGS RESURRECTED TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Extreme sound muffler - Muffle many sounds. Well, swans still honk, my bad. [DEVLOG INCOMPATIBILITY WITH DYAMIC SURROUNDINGS RESURRECTED TODO !!!!!!!!!!!!!!!!!!!!!!!!]
 Fading Night Vision - Does what it says. No more sudden night vision.
 Fancy Chunks - Fading in chunks! Works best without shaders. 
 
@@ -248,14 +248,14 @@ Fat Chicken [christmas mod] - Next christmas will be so much better!
 Festive Delight - I can smell the dough from here!
 
 FindMe - Where did I put my stylus? Now I'll know!
-First Join Message - Makes the experience just that bit nicer. [DEVLOG ADD MESSAGE TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+First Join Message - Makes the experience just that bit nicer. [DEVLOG ADD MESSAGE TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 FlionkJ More Blocks - Railings for your home!
 Floor Mats - Multiblock pressure plates!
 Floralis - Farmable dye!
 
 Flotage - Let's build a raft!
 Fluffy Flowers - Adds dandelions!
-FootprintParticle - Time to leave behind our own footprints. [DEVLOG ADD HORSE HOOVES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+FootprintParticle - Time to leave behind our own footprints. [DEVLOG ADD HORSE HOOVES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Forever A Child - "Why did you stop ageing?" - "They right clicked at me with a poisonous potato :(" - "So you can't drink milk now. Was it worth it?" - "Definitely >:D"
 Frikinzi's Fauna - I usually hate magpies, but I love these! I had to add this beautiful mod. Hope you all love these birbs too. 
 
@@ -269,7 +269,7 @@ Gourds Fix - Now this is where we *stem* from.
 GraveStone Mod - Second "Don't lose your stuff anymore" solution. I watched some of you nuggets lose tons of stuff because you died too frequently. RIP. Hopefully no more now! Whether you use this or Corail is up to you! Deactivated to avoid issues.
 Grouping & Sorting for Waystones - Easier to see how many homes and how many beehive waystones you have now. Or villages, weird mansions, underwater castles... you get it.
 Help Wanted - "Don't. Those are my emeralds!" - "But we need a farmer! Now! And you said I can't use a diamond one." - "Use gold, okay. And only ONCE."
-HexLands II - Ignore this mod for now, I am experimenting with more game modes atm. You can experiment too, if you want! [DEVNOTES REMEMBER THIS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+HexLands II - Ignore this mod for now, I am experimenting with more game modes atm. You can experiment too, if you want! [DEVNOTES REMEMBER THIS TODO !!!!!!!!!!!!!!!!!!!]
 
 (Item) Highlighter - Look, sparkly new items! Oh, now they're old.
 Hitmarker Reforged - A bit better feedback on hitting mobs.
@@ -279,7 +279,7 @@ Horizontal Panes - Use these for your carport roof!
 
 Horse Tack - Make our horses wear fancy stuff. 
 Hourglass - Tempus fugit! (No clue what that means exactly)
-Human Companions - In this hut there's no witch but a new friend for you!   install pet tracker mod TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
+Human Companions - In this hut there's no witch but a new friend for you!   install pet tracker mod TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
 Iceberg - A mod library.
 Infinite Music - The sound of silence is no more! Well it is shorter now. 
 
@@ -309,7 +309,7 @@ LibX - Another Library Mod
 
 Light Meals - Mashed potatoes!
 Little Logistics - My Little Locomotive, My Little Tugs~
-Lore Books - So you can find out what's actually going on in here o_o [DEVNOTES CONFIGURE LORE BOOK PAGES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Lore Books - So you can find out what's actually going on in here o_o [DEVNOTES CONFIGURE LORE BOOK PAGES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Lost and Fished - In case you lost something precious, you can now potentially retrieve it by fishing. Only works on new items you start to lose now, not already lost ones.
 Maiden's Merrymaking - A Minecraft Christmas and Winter Holiday Mod - Guess who made a resource pack for a bunch of mobs :D Next XMas will be a Litmas.
 
@@ -325,7 +325,7 @@ Musical Instrument Minecraft Interface (MIMI) - "I'm a dirty boi, it's time to p
 MineMention - "/Hello @everyone", Click to reply.
 MineTogether - Time to bring back an oldie that makes it so much easier to ask for help! Watch out where you type commands, okay?
 
-(miraisoftloginmessages)Custom Login Messages - Another mod for login messages! [DEVNOTES CHECK COMPATIBILITY WITH OTHER MOD TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+(miraisoftloginmessages)Custom Login Messages - Another mod for login messages! [DEVNOTES CHECK COMPATIBILITY WITH OTHER MOD TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Missing Wilds - The birch forest biome, that was scrapped. Here you go. Forget me not!
 (MMF)Multipart Machines: Farming - An efficient way to get crops. Needs energy.
 MmmMmmMmmMmm (Target Dummy) - That's a lot of damage. HOW ABOUT MORE :D
@@ -370,19 +370,19 @@ Placeable Pumpkin Pie - Equality for pumpkin pies!
 Placeable Items - Who left that potato in front of my doorstep?!?
 Platforms - More building items and tools! Use a platformer and wrench!
 (platformsigns) Numbered Wall Signs - Do you like to build train stations? You're now no longer outnumbered.
-Player Skills - Are we skilled or are we not? [DEVNOTES FIGUE OUT WHY THE DENIAL SKILL OF DIMENSION SKILLS ISN'T WORKING, KUBEJS ADDON MOD TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Player Skills - Are we skilled or are we not? [DEVNOTES FIGUE OUT WHY THE DENIAL SKILL OF DIMENSION SKILLS ISN'T WORKING, KUBEJS ADDON MOD TODO !!!!!!!!!!!!!!!!!!!!!]
 Pop! - "The bubble gotta burst!" And another bubble bursted.
 
-Potatweaker - Do you tweak the potat or does the potat tweak you? [DEVNOTES READ WIKI AND TRY TO USE FOR FROG REPLACEMENT TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Potatweaker - Do you tweak the potat or does the potat tweak you? [DEVNOTES READ WIKI AND TRY TO USE FOR FROG REPLACEMENT TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Primal: Reservation - Can you save them all?
-Primal Winter - Ignore this mod for now [DEVNOTES CHECK VIABILITY TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Primal Winter - Ignore this mod for now [DEVNOTES CHECK VIABILITY TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Productive Bees - Honey, I waxed the copper!
 Pure Discs - Trails & Tales - Five new discs for y'all!
 
 Rakes - Perfect for your new Zen-Garden!
 Random Bone Meal Flowers - Bone meal should also produce modded plants, don't you think? Now we can get our favorite flowers!
 REBIRTH: Paintings - We have Mt. Fuji, and a white horse, and another white horse, and ano- a lot of paintings. 
-Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE! (Another case of "minecraft:" for own modded items, don't do that.)[DEVNOTES FIX MOD TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Regions Unexplored - RAINBOW CAVE! RAINBOW CAVE! (Another case of "minecraft:" for own modded items, don't do that.)[DEVNOTES FIX MOD TODO !!!!!!!!!!!!!!!!!!!!!!!!]
 Respiteful - "What is that?" - "tEa!" - "So... you made... tea... cake..."
 
 Restoration Stone - Your weapon is expensive to repair? Buy this consumable stone to reset the count!
@@ -391,10 +391,10 @@ Roasted - Marshmallows... and a stick.
 Rule Control (RC) - "/rc menu" to open GUI!
 S33R Butterfly Paintings - Pretty little paintings
 
-Screenshot Viewer - View your screenshots while still in-game! [DEVNOTES MONITOR ISSUE PROGRESS ON GRAY WHITE PIXELS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Screenshot Viewer - View your screenshots while still in-game! [DEVNOTES MONITOR ISSUE PROGRESS ON GRAY WHITE PIXELS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Seasonals - Time for me to enhance the food abundance trauma! :'D
 Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
-ShetiPhianCore - Library Mod [DEVNOTES IS THIS MOD NEEDED??? IT'S DEACTIVATED TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+ShetiPhianCore - Library Mod [DEVNOTES IS THIS MOD NEEDED??? IT'S DEACTIVATED TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Shortage Block Collection - Look at this pretty bamboo fence! And more!
 
 Sign Button - Signs can be crafted into sign-buttons!
@@ -430,7 +430,7 @@ Vanilla Cookbook - Brownie tray, yay~
 Water condenser - You're stranded in a place without water? Maybe we can use this. 
 WATERMeDIA: Multimedia API - Shhh. You'll figure out why I needed this if you click around the UI a bit :> (Btw, did anyone find any easter eggs yet? Hehe.)
 Water Strainer - More ways to obtain resources, now with water!
-Welcome Message - Welcome to the chat! Eh... I need to tweak that line. [DEVLOG EDIT CONFIGS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Welcome Message - Welcome to the chat! Eh... I need to tweak that line. [DEVLOG EDIT CONFIGS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Just a Well - Well, well, what do we have here? 
 
 What's That Slot? - I don't know! Maybe this mod does? Hold down "Left-Alt"!
@@ -488,6 +488,8 @@ Entity Texture Features [ETF]
 Entity Texture Models [ETM]
 
 xali's Potions [needs CITResewn-1.1.1.jar for 1.18.2, I will try to implement it but since it's not uploaded on Curseforge, it might be denied. Fingers crossed! Otherwise, download it from the Rubidium Discord server!]
+
+Vending Machine resources - RE:PM fix [Villages spawn Vending machines turned around by 180 degrees. This is just a visual "noob fix". It still is actually the same object, just front and back textures swapped. This sadly also affects player placed VMs so you need to turn around 180 degrees to place them looking correct (aka yours will also actually look wrong without this resource pack active).]
 
 ChirpNoMore_Resources - This pack replaces some (imho annoying) sounds, feel free to look inside the folder to investigate. If you don't want these sounds overwritten, remove them from the folder. 
 
