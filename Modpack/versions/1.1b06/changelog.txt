@@ -587,6 +587,7 @@ untamedwilds 2.4.0 -> 2.4.3
 villagernames 5.2 -> 7.0
 villagespawnpoint 4.0 -> 4.1
 Xtra Arrows 2.4.3 -> 3.0.6
+watermedia 2.0.24 -> 2.0.28
 weaponleveling 1.4.3 -> 2.1.0
 
 Forge 40.2.9 -> 40.2.17
@@ -598,13 +599,13 @@ Forge 40.2.9 -> 40.2.17
 [Cannot update due to issues/crashes]
 Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
 [fancymenu 2.14.9 -> 3.1.0
-watermedia 2.0.24 -> 2.0.28
+watermedia
 DLS 2.2.2 -> 3.0.1
 Konkrete 1.6.1 -> 1.8.0
 video extension Fm [3.0+ and extensions crash, waiting for fix]]
 
 [Testing Update:]
-Custom Quests 1.18.2 port! V 2.4.0
+
 
 
 
@@ -614,7 +615,7 @@ Custom Quests 1.18.2 port! V 2.4.0
 
 Re-Activated Mods
 
-<empty>
+Custom Quests 1.18.2 port! V 2.4.0
 
 
 
@@ -635,6 +636,7 @@ ForgetMeChunk (Waiting for Update to fix memory leak)
 Dual Riders (Is this actually necessary or does unordinary basics already ship the function? TODO)
 ShetiPhianCore - Library Mod [TODO DEVNOTES MOD CRASHES WITH PACK FIND CAUSE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!(Lib for Platforms)]
 ARFID Awareness - (Crashes on World load, some incompatibility)
+CTM ConnectedTexturesMod - (Crash cause for lots of weird things. TODO waiting for dev fix)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -679,7 +681,7 @@ Edited Dynamic Surroundings keybind for sound settings to num lock key.
 BetterTitleScreen 1.1b06
 BetterCompatibilityChecker 1.1b06
 Modpack Update Checker repo 1.1b06
-ITLT config 1.1b06
+ITLT config (It's The Little Things>Client>Display>Welcome Screen, Enable ON)1.1b06
 [done]
 
 
@@ -718,7 +720,7 @@ Known issues
 Nav Buttons in Beginners' Guide don't work like they should. I'm annoyed so I'll fix it later. Or never, idk. 
 Minecraft wooden chest is not pickable by CarryOn (carryon-1.18.2-1.17.1.12), other chest should be fine, though.
 Sometimes blocks don't render anymore (due to unknown reasons), leave the world and re-join it should be fixed. 
-The music from 1,000,000 times might still play in main menu. Try to go back and forth to its GUI to fix it. 
+The music from 1,000,000 times might still play in menu above it. Try to go back and forth to its GUI to fix it. 
 XPFromHarvest doesn't work on some crops - I am still trying to debug this. Reach out if you got time and want to help me. 
 [TODO DEVNOTES MIGHT BE FIXED! Guard Villagers!!!!!!!!!!!]There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
 Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
