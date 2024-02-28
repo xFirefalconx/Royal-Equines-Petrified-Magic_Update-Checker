@@ -1,4 +1,4 @@
-Version [1.1b06] [11.17.2023][02.04.2024]
+Version [1.1b06] [11.17.2023][02.28.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -130,7 +130,7 @@ bricks but 3D - It's briccccc time! I kid you not.
 .3D Placeable Food - There can't ever be enough food mods : D No, really, they look so cool!
 Amplified Nether - Oh no more generation tweaks! 3D biomes! What?! What. 
 Another Furniture - Time to further up the possibilities!
-ARFID Awareness - I plan to add another game mode soon. Activate if you want to test the mod, but beware it's difficult. [DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+ARFID Awareness - [DEVNOTES TODO Incompatibility crash on world creation, maybe ask for permission to redo mod or just dump it!!!!!!!!!!!] I plan to add another game mode soon. Activate if you want to test the mod, but beware it's difficult. [DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 
 Asoteria - A new dimension, will you survive?
 Athelas - Find it in the *Middle* of the *Earth*, it's rare but maybe you'll spot one in your direst moments!
@@ -150,7 +150,7 @@ BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)
 Bitems - Bilingual Items - You wanted to learn a language while playing Minecraft? Now you... can! You have to set the language, though. It's set to en_us by default.
 BlackAuresPaintings/Paintings with Dragons - I just HAD to when I saw those paintings! Fellow artist support! I love dragons, do you too?
 
-Blue Skies - "And the clouds roll by~" Reminds me of the Aether mod, but in a more dangerous and haunting way! 
+Blue Skies - "And the clouds roll by~" Reminds me of the Aether mod, but in a more dangerous and haunting way! [TODO ask Spells and Shields mod dev or look config bug in creative mode with tabs, they won't fix]
 Bonsai Trees 3 - Remember this mod from SkyFactory4? Yeah I played it, too! Let's create Bonsai!
 Broglis Plants - "Oh no it's a trap!" "Ohohohooo, I'm a fly trap >:3c"
 Butter(fly)fish Mod - You know this one fish fella, if you watched a certain movie. Finding...
@@ -498,7 +498,7 @@ CAUTION REGARDING RESOURCE PACK MANAGEMENT!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [WARNING!] .ogg files are difficult and slow to move/remove/change on Windows 10/11. 
 [WARNING!] Removing resource packs from the active stack in-game is also not advised - YOUR PC MIGHT FREEZE ENTIRELY IF YOU TRY TO RELOAD RESOURCE PACKS ON RUNTIME!!! 
-***I hereby WARNED you!*** SAVE ANY FILES YOU MIGHT LOSE (open documents, open projects, other) *IF* *AND* *BEFORE* ATTEMPTING ANYTHING IN MINECRAFT!
+***I hereby WARNED you!*** SAVE ANY FILES YOU MIGHT LOSE (open documents, open projects, your Bob Ross inspired digital paintings, other) *IF* *AND* *BEFORE* ATTEMPTING ANYTHING IN MINECRAFT!
 Change the resource packs at YOUR OWN RISK!!! - If Curseforge adds an out of game editor, this might be a soon to be removed worry. NOT IN SIGHT YET.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CAUTION REGARDING RESOURCE PACK MANAGEMENT!
@@ -541,6 +541,7 @@ fancymenu 2.14.7 -> 2.14.9
 farmersdelight 1.2.1 -> 1.2.3
 fastloadreforged 8.2.1 -> 3.4.0 (NANI ?!? We went up in versions, don't worry.)
 ftbbackups2 1.0.19 -> 1.0.22
+Guard Villagers 1.4.3 -> 1.4.4 ("- Fix crash with villager gossiping (xFirefalconx)"<- That's me! I just ported some stuff from 1.19.x tho lol.)
 itemcollectors 1.1.7 -> 1.1.8
 itemlocks 1.3 -> 1.3.3
 keepmysoiltilled 2.0 -> 2.1
@@ -555,6 +556,7 @@ minecard 0.8.0 -> 1.0.0
 mmlib 1.2.0 -> 1.2.2
 Modernfix 5.0.4 -> 5.6.1
 movingelevators 1.4.3 -> 1.4.4
+Multiplayer-Server-Pause 1.1.0 -> 1.2.0
 nocube'sbetterfletchingtable 1.0.0 -> 1.0.1
 nocube'svillagerssellanimals 1.2.0 -> 1.2.1
 oculusflywheelcompat 0.2.0 -> 0.2.1
@@ -585,6 +587,7 @@ untamedwilds 2.4.0 -> 2.4.3
 villagernames 5.2 -> 7.0
 villagespawnpoint 4.0 -> 4.1
 Xtra Arrows 2.4.3 -> 3.0.6
+weaponleveling 1.4.3 -> 2.1.0
 
 Forge 40.2.9 -> 40.2.17
 
@@ -594,9 +597,17 @@ Forge 40.2.9 -> 40.2.17
 
 [Cannot update due to issues/crashes]
 Create [CRASH on 0.5.1.c, reverting to 0.5.1.b]
+[fancymenu 2.14.9 -> 3.1.0
+watermedia 2.0.24 -> 2.0.28
+DLS 2.2.2 -> 3.0.1
+Konkrete 1.6.1 -> 1.8.0
+video extension Fm [3.0+ and extensions crash, waiting for fix]]
 
 [Testing Update:]
-weaponleveling 1.4.3 -> 2.1.0
+Custom Quests 1.18.2 port! V 2.4.0
+
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -622,7 +633,8 @@ GraveStone Mod (Alternative for Corail Tombstone)
 Dynmap (Incompatibilities + Serverside, should we remove this? TODO)
 ForgetMeChunk (Waiting for Update to fix memory leak)
 Dual Riders (Is this actually necessary or does unordinary basics already ship the function? TODO)
-
+ShetiPhianCore - Library Mod [TODO DEVNOTES MOD CRASHES WITH PACK FIND CAUSE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!(Lib for Platforms)]
+ARFID Awareness - (Crashes on World load, some incompatibility)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -708,9 +720,10 @@ Minecraft wooden chest is not pickable by CarryOn (carryon-1.18.2-1.17.1.12), ot
 Sometimes blocks don't render anymore (due to unknown reasons), leave the world and re-join it should be fixed. 
 The music from 1,000,000 times might still play in main menu. Try to go back and forth to its GUI to fix it. 
 XPFromHarvest doesn't work on some crops - I am still trying to debug this. Reach out if you got time and want to help me. 
-[DEVNOTES MIGHT BE FIXED!!!!!!!!!!!!]There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
+[TODO DEVNOTES MIGHT BE FIXED! Guard Villagers!!!!!!!!!!!]There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
 Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
 And maaaybe the KubeJS scripts are not working correctly. I'm on it. 
+
 
 
 
