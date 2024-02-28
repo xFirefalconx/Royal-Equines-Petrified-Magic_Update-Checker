@@ -1,4 +1,4 @@
-Version [1.1b06] [11.17.2023][02.28.2024]
+Version [1.1b06] [02.28.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -733,4 +733,4 @@ And maaaybe the KubeJS scripts are not working correctly. I'm on it.
 
 Other future changes
 Mod updates! Hopefully more bugfixes. Maybe a few new mods, depending on what the devs hold in store. 
-Story! Hopefully also quests. Still waiting on a port for 1.18.2 on a mod that caught my eye. Might not happen so I gotta see what I can do here. More visual enhancements! More? I'll let you know in the next update!
+Story! Hopefully also quests. Custom Quests is ported to 1.18.2 now, so I'll be trying to set up the first few things, soon. More visual enhancements! More? I'll let you know in the next update!
