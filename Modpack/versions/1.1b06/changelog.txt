@@ -29,95 +29,100 @@ Boat Break Fix - Who put that boat on the mountain top?!
 Bocchium - Bocchi the (Bed)Rock! Cull it!
 Chunk Sending - reduce chunk sending lag spikes
 CIT Resewn/Reforged - Uhhhh yeah so, we need this because Optifine is bad, we're not on Fabric and Resource packs are a messy muddy moshpit. FIGHTO ON!
-Clickable Advancements - the name is program 
+Clear Despawn - The faster the blink, the sooner they are gone. Despawned, you know.
 
+Clickable Advancements - the name is program 
 Client Crafting - removes server delay on crafting operations
 Compact Help Command - "/help"!
+Connectivity - Packet fixes, timeout fixes, multiplayer related.
 (Create:) Condensed Milk - Reduces server lag when using lots of Create drills!
+
 Crash Utilities - More analytical mods for crashy situations.
 CullLessLeaves Reforged - Time to torment our pcs by increasing leaf amount! Or... don't :D
-
 Cupboard - Not what the name says, debugging stuff
 Custom Credits - Now we can write our own ending! ["/credits show" to debug! TODO DEVNOTES CONFIGURE THIS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 Cyanide - Finally datapacks are not some foreign wizardry... or at least if you screw up, you'll know where you did. 
+
 Damage Tilt - If you tilt, at least do it the right way! Fixes an old bug! Cool demo video by Shivaxi btw. (You know, RLCraft Modpack dev)
 Dark Mode Everywhere - "Come to the dark side we have-" - "Don't say it!" - "... Cookies?" 
-
 DeLogger - Debug stuff. Remove annoying log messages. Pudding.
 Dimension Skills - [DEVNOTES CHECK NECCESITY TODO !!!!!!!!!!!!!!!!!!!!!!!!!]
 DisguiseLib - Serverside mob disguise library (Eh what now?) [DEVNOTES MAYBE REMOVE IF OTHER OPTIONS WORK TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] 
+
 DrawerFPS - improve FPS on storage drawers that render items
 Dual Riders - DEACTIVATED NEED TO CONFIRM WHETHER IT'S NOT NECESSARY BECAUSE OF UNORDINARY BASICS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
 Dynamic View - Balances TPS and simulation distance
 Enhanced Block Entities Reforged (Unofficial) - Another mod to increase your FPS! Makes rendering chests faster.
 Entity Culling - You can't see me? I don't get rendered. 
+
 (ez)Entity Zoning Supervisor - Another mod for my plans [DEVLOG REMOVE IF IT WORKS WITH THE OTHERS TODO !!!!!!!!!!!!!!!!!!!! CAN CHANGE LOOT TABLES!!!!!!!!!!!!!!!!!!]
 Farsight - "Finally, I can see!" - "Found your eyeglass, eh?"
-
 FastWorkbench - shift-clicking finally doesn't freeze the entire game anymore XD Didn't happen to me, nono.
 Feature NBT Deadlock Be Gone - In case you corrupted your world with such a thing, here's your savior!
 Fix Race Condition - Fixes a canary related bug (if still existing).
+
 Fix DS_Store Crash - I don't use macos but if you do, maybe this prevents some crashes with kubejs. 
 Flame Sweeping Potato Edition - This combines Fire Aspect with Sweeping Edge.
-
 FlowingFluidFixer - Got no flowing version, no problem.
 ForgetMeChunk (causes memory leak until dimension is changed, WAIT FOR FIX OR DEACTIVATE FOR NOW! DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)
 FPS Reducer - Saves up your pc power if you're afk/tabbed out! Electricity can be expensive, I gotcha. 
+
 FullStack Watchdog - Serverside mod to show full error stacktrace. [DEVNOTES FIND MOD THAT STACKTRACES IN SINGLEPLAYER TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 fix GPU memory leak - in case your GPU does wonky stuff
-
 ImmediatelyFast Reforged (Unofficial) - uploads data to GPU more efficiently, original dev doesn't support 1.18.2 at all and this dev abandoned it, but at least we have this.
 JEITweaker - A JEI/CraftTweaker support mod 
 JourneyMap Integration - Some other mod features work in JourneyMap with this neat mod. Have fun!
+
 JourneyMap Server - "Provides a way for journeymap to identify worlds on bungeecord servers."
 Leaky - Farm leak detection - Collect your loot or the game does.
-
 Lightspeed - Launch optimizations - decreases launch time by a bit. (48-71% according to dev?!) 
 Limited Chunkloading - Chunk cleanup - Serverside mod, you log off, your chunks unload. Helps boost server performance.
 Load My F***ing Tags - (Minecraft stone was not mineable at all, whoopsie. To prevent future hiccups this will stay in and help debug such situations) This mod is for debugging but since some issues might stay, it at least keeps compatibility where it would break due to cooked tags. Not looking at Planeteer Core...
+
 MemoryLeakFix (might be outdated)
 (MinecraftClientGobrrr)Game window go brrr - Forces Minecraft Window to show up earlier. No more confusion whether it's loading or not!
-
 Mixin In Heaven - Mixins added to the stacktrace!
 Modifier Key Fix - Stop calling the base key! Less trouble, woohoo!
 NaNny - heal after health modification (might not fix everything)
+
 Neruina - Ticking Entity Fixer - This makes blocks that cause ticking crash stop ticking and entities... RIP. If your villager dies because he ate an apple (oops why?!? TODO) now, use "Help Wanted" signs!
 (NMPR)No More Poison with Regeneration - Cancels out each other upon same duration, because it makes more sense.
-
 NoChatLag - Fixes an issue with chat lag and freezes.
 Observable - More profiling! Press R to figure out what's causing lags. 
+Packet Fixer - A lot of multiplayer related fixes for ya.
+
 Passive SearchBar - Search Bar isn't focussing your every input. No more "wwwassssddddda". Stop it. Get some help. 
 ReAuth - In case you manage to make your client invalidate your session... Re-Authentificate without having to restart. 
 Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situation by accident? Yeah, me too. I removed the default keybind - you can re-enable it though if you need the narrator. 
-
 Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 Reforgium - Rubidium render optimizations
+
 Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
-
 Seamless - Beds and Doors have better outlines now. 
 Server Search Bar - "The singleplayer screen has a search bar, the multiplayer menu should have one too." - Agreed!
+
 SerializationIsBad - Fixing a 'recently' exposed security breach.
 (ServerPropertiesReload)Reload server.properties - "/properties reload" Have a dedicated server and want to change settings? You can reload them now. More commands see mod page.
 ServerSleep - player sleep percentage = 50% now!
-
 Shutdowner - Your server is hanging? Time to restart it with shutdowner! Might not fix it all but helps you hopefully!
 (smoothchunk) Server Performance - Smooth Chunk Save - reduces the time the game needs to save chunks
+
 Spark - shall help detect lag causes and performance bottlenecks
 Structure Essentials - enhances operations around structures
 Stylish Effects - What am I suffering from? This displays the status effects more efficiently. 
-
 Suggestion Provider Fix - so you can just type "oak_seed" in your command bar and still find your item.
 TagFoods - "$food" to find some cool food in your JEI bar!
+
 TellMe - DEVELOPMENT TOOL using commands 'n stuff. It is useless for you players, but bugtesters might figure out something by using this mod, basically.
 TieFix - This mod is probably not going to work but in case it'll get a forge port or compatibility mod in the future - fixes lots of bugs, apparently. 
 Translucency Fix - A Mod that helps with translucent HUD and GUI display.
-
 Underwater Enchanting - Enchanting Tables work underwater now. 
 Water Walking Fix - Fixes bugs. "I believe that I can walk on oil!" - "Wrong line. It's water, not oil."
-WYML (Why You Make Lag) - Pack dev:"Bro, why you make lag?" WYML:"Because..." - It's just a debug tool and I am using it like the fool that I am - wrong. [DENOTES LOOK AT THIS, CONFIGS !!!!!!!!!!!!!!]
+
+Where are My Items? - Utility to look for the last chests you put items in, and a list of items you stored. 
+WYML (Why You Make Lag) - Pack dev:"Bro, why you make lag?" WYML:"Because..." - It's just a debug tool and I am using it like the fool that I am - wrong. [TODO DEVNOTES LOOK AT THIS, CONFIGS !!!!!!!!!!!!!!]
 XL Packets - In case you need it, we got you covered. (We? Who is We!?!?!?)
 (ylssln)Your Log Saw Something Last Night - Now it is scared. A server Admin tool to monitor players' (mis)behavior. You can deactivate it if you like! Configs available!
 
@@ -431,7 +436,7 @@ Water condenser - You're stranded in a place without water? Maybe we can use thi
 WATERMeDIA: Multimedia API - Shhh. You'll figure out why I needed this if you click around the UI a bit :> (Btw, did anyone find any easter eggs yet? Hehe.)
 Water Strainer - More ways to obtain resources, now with water!
 Welcome Message - Welcome to the chat! Eh... I need to tweak that line. [DEVLOG EDIT CONFIGS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
-Just a Well - Well, well, what do we have here? 
+(Just a )Well - Well, well, what do we have here? 
 
 What's That Slot? - I don't know! Maybe this mod does? Hold down "Left-Alt"!
 Wily Textiles - Use some Twine, make textiles so fine!
