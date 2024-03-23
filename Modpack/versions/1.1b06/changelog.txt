@@ -1,4 +1,4 @@
-Version [1.1b06] [02.28.2024]
+Version [1.1b06] [03.23.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -498,6 +498,8 @@ Vending Machine resources - RE:PM fix [Villages spawn Vending machines turned ar
 
 ChirpNoMore_Resources - This pack replaces some (imho annoying) sounds, feel free to look inside the folder to investigate. If you don't want these sounds overwritten, remove them from the folder. 
 
+TODO: Create resource pack for Beehives from Productive bees (sugarcane nest, dirt nest, check others)
+
 
 
 
@@ -718,6 +720,11 @@ Added a Special Thanks page. There are bugs, as always. We're very insect friend
 I drew new nightly Splash BGs. Enjoy! 
 New button to reach Notes mod easier and without a hotkey!
 Added button to survival and creative inventory to change JEI settings as a temporary fix for Configured not working properly. USE WITH CAUTION. 
+Added a self-made 2D animation (just took me 4 days cough cough) to the loading screen, as well as some hopefully quiet music. You cannot mute it while loading that's because DL buttons don't work. 
+Backgrounds now change according to your PC date on northern hemisphere. I also plan to add this for southern but I spent 2 long nights and I am so burnt out. Oof. 
+Added items to your startup, hopefully without bugs. My own in-dev saves are buggy because of applied changes but eh. If I find more flint in my old saves I'll know why. 
+Started working on the quest system. (I'll organize these using twine because staring at scripts for hours makes my brain become ramen soup.)
+Added quest_scroll - yep I drew the texture on this one too. What is it for? You'll figure out soon! Hopefully I'll complete one small questline before release owo 
 
 
 
