@@ -1,4 +1,4 @@
-Version [1.1b06] [03.23.2024]
+Version [1.1b06] [04.17.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -97,7 +97,7 @@ Rebind Narrator - "nArrAtOoRrrr-nARraT-nA-nnnnn" You hate getting into this situ
 Redirector [Modern] - Improves access speed. Not everywhere though because of Mixin priorities. 
 Reforgium - Rubidium render optimizations
 
-Resource Pack Overrides - Should help in fixing package order and display... [ACTUALLY... IS IT??? DEVNOTES TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Resource Pack Overrides - Should help in fixing package order and display... 
 (rubidium_extras) Magnesium/Rubidium Extras - Performance, enhancements, features.
 Saturn - Previously incompatible but now it works like a charm! Performance boost, me likey.
 Seamless - Beds and Doors have better outlines now. 
@@ -156,7 +156,7 @@ BiomeTweaker (remove quark frogs, replace by backported frogs(but add leg drops)
 Bitems - Bilingual Items - You wanted to learn a language while playing Minecraft? Now you... can! You have to set the language, though. It's set to en_us by default.
 BlackAuresPaintings/Paintings with Dragons - I just HAD to when I saw those paintings! Fellow artist support! I love dragons, do you too?
 
-Blue Skies - "And the clouds roll by~" Reminds me of the Aether mod, but in a more dangerous and haunting way! [TODO ask Spells and Shields mod dev or look config bug in creative mode with tabs, they won't fix]
+Blue Skies - "And the clouds roll by~" Reminds me of the Aether mod, but in a more dangerous and haunting way! 
 Bonsai Trees 3 - Remember this mod from SkyFactory4? Yeah I played it, too! Let's create Bonsai!
 Broglis Plants - "Oh no it's a trap!" "Ohohohooo, I'm a fly trap >:3c"
 Butter(fly)fish Mod - You know this one fish fella, if you watched a certain movie. Finding...
@@ -220,7 +220,7 @@ Dismount Entity - Oh no, my panda is stuck in the boat! Well, not anymore! Make 
 Domestic(ation) Innovation - Currently incompatible with "Projectsavethepets"... Mayyybe somebody can... you know, change the 1000 priority?? Yes/no? [DEVNOTES TODO !!!!!!!!!]
 Double Doors - Shift right click to open just one, okay?
 Drip Sounds - Now you can listen to the skies crying properly~ (Rain, you mean rain!)
-Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. [DEVNOTES CTM CULPRIT YES/NO? FOR CUTTING TREE CRASH TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Dynamic Trees - Oh The Biomes You'll Go - Dead trees... dead trees. 
 
 Dynamic Trees - Hexerei - Willow, willow, got a crow feather under my pillow~
 Dynamic Trees - Neapolitan - Bananananananaa  
@@ -284,11 +284,11 @@ Horizontal Panes - Use these for your carport roof!
 
 Horse Tack - Make our horses wear fancy stuff. 
 Hourglass - Tempus fugit! (No clue what that means exactly)
-Human Companions - In this hut there's no witch but a new friend for you!   install pet tracker mod TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! [DEVNOTES]
+Human Companions - In this hut there's no witch but a new friend for you!
 Iceberg - A mod library.
 Infinite Music - The sound of silence is no more! Well it is shorter now. 
 
-Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
+Initial Inventory - [DEVNOTES EDIT THE initialInventory.zs FILE NEED TO ADJUST THE BOOK DATAPACK THOUGH SO GET BACK HERE LATER CURRENTLY THERES FLINT GIVEN TO PLAYER TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!] - some utilities to give you lore-accurate starting items hehe >:D
 (ite) Improved Trident Enchantments - mods got split from original mod, re-implementing.
 ItemCopy - Wanna share your Chisels and Bits creations? Try this way! 
 ItemZoom - No more squinting, more seeing what you are hovering over :D
@@ -396,7 +396,7 @@ Roasted - Marshmallows... and a stick.
 Rule Control (RC) - "/rc menu" to open GUI!
 S33R Butterfly Paintings - Pretty little paintings
 
-Screenshot Viewer - View your screenshots while still in-game! [DEVNOTES MONITOR ISSUE PROGRESS ON GRAY WHITE PIXELS TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
+Screenshot Viewer - View your screenshots while still in-game!
 Seasonals - Time for me to enhance the food abundance trauma! :'D
 Second Chance - "Help me, I'm running out of second chances!" (HollywoodUndead)
 ShetiPhianCore - Library Mod [DEVNOTES IS THIS MOD NEEDED??? IT'S DEACTIVATED TODO !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!]
@@ -453,6 +453,9 @@ Zetter Gallery — Share Paintings - May I see what you created, too?
 
 [Testing New Mods:]
 <empty> 
+Mob Drop Master - To control Mob and Xp drops
+Keep Command History - World crashed, lost your chat log? No problem, fixed. Doesn't work after you restarted the game. 
+Advanced Debug - Cleans up the F3 screen and you can cycle through them with F4 now! 
 - YES. EVERYTHING. AAAA. TODO !!!!!!!!!!!!!!!!!!!!!!
 
 
@@ -615,7 +618,8 @@ Konkrete 1.6.1 -> 1.8.0
 video extension Fm [3.0+ and extensions crash, waiting for fix]]
 
 [Testing Update:]
-
+PuzzlesLib 3.5.7 -> 3.5.8/3.5.9
+Multipart Machines: Farming 1.3.0 -> 2.0
 
 
 
@@ -644,8 +648,7 @@ GraveStone Mod (Alternative for Corail Tombstone)
 Dynmap (Incompatibilities + Serverside, should we remove this? TODO)
 ForgetMeChunk (Waiting for Update to fix memory leak)
 Dual Riders (Is this actually necessary or does unordinary basics already ship the function? TODO)
-ShetiPhianCore - Library Mod [TODO DEVNOTES MOD CRASHES WITH PACK FIND CAUSE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!(Lib for Platforms)]
-ARFID Awareness - (Crashes on World load, some incompatibility)
+ARFID Awareness - (TODO Crashes on World load, some incompatibility)
 CTM ConnectedTexturesMod - (Crash cause for lots of weird things. TODO waiting for dev fix)
 
 
@@ -685,6 +688,8 @@ Added "swpm-server.toml" to defaultconfigs. Edit to your liking in your own worl
 ding.toml - Added "Ding!" sound of horse idle. 
 BadMobs enabling Magpies spawn again. 
 Edited Dynamic Surroundings keybind for sound settings to num lock key. 
+Added Server configs for Dynamictrees to Defaultconfigs, upped voluntary seed drop percentage for living trees x5. Replace your save's config with the one from defaultconfigs to update old worlds.
+Moved Panoramica Hotkey to F6
 
 [DEVNOTES]
 [todo]
@@ -734,8 +739,9 @@ Known issues
 
 Nav Buttons in Beginners' Guide don't work like they should. I'm annoyed so I'll fix it later. Or never, idk. 
 Minecraft wooden chest is not pickable by CarryOn (carryon-1.18.2-1.17.1.12), other chest should be fine, though.
-Sometimes blocks don't render anymore (due to unknown reasons), leave the world and re-join it should be fixed. 
+Sometimes blocks don't render anymore (due to unknown reasons), press "F3" + "A". This is easier than reloading the world! I'm still investigating. 
 The music from 1,000,000 times might still play in menu above it. Try to go back and forth to its GUI to fix it. 
+Opening the settings of the mod that shows a GUI when pressing Alt and closing it pressing 'Close' crashes your game. Oops. [seems to be Puzzles lib 3.5.7 issue, does Update solve? TODO REPORT THIS!!!!!!!!!!!!!!!!!!!!!]
 XPFromHarvest doesn't work on some crops - I am still trying to debug this. Reach out if you got time and want to help me. 
 [TODO DEVNOTES MIGHT BE FIXED! Guard Villagers!!!!!!!!!!!]There's a randomly occuring crash noticeable by a sudden game freeze and a following "Disconnect" issue that brings you to the Multiplayer screen. No idea where it stems from, something about entity ticking. Just reload your world when you're back in Main Menu, it's inconvenient but at least it doesn't completely crash Minecraft. Find it too annoying? Help me investigate. Send me crash- and latest logs, describe the situation, you know the drill. 
 Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
