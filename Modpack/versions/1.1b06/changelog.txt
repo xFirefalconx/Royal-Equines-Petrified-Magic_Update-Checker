@@ -1,4 +1,4 @@
-Version [1.1b06] [04.17.2024]
+Version [1.1b06] [04.27.2024]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -650,6 +650,7 @@ ForgetMeChunk (Waiting for Update to fix memory leak)
 Dual Riders (Is this actually necessary or does unordinary basics already ship the function? TODO)
 ARFID Awareness - (TODO Crashes on World load, some incompatibility)
 CTM ConnectedTexturesMod - (Crash cause for lots of weird things. TODO waiting for dev fix)
+Effortless Building - (Crash issue with Puzzles Lib and weird creative mode bug that prevents you from destroying blocks TODO waiting for dev fix)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -730,6 +731,7 @@ Backgrounds now change according to your PC date on northern hemisphere. I also 
 Added items to your startup, hopefully without bugs. My own in-dev saves are buggy because of applied changes but eh. If I find more flint in my old saves I'll know why. 
 Started working on the quest system. (I'll organize these using twine because staring at scripts for hours makes my brain become ramen soup.)
 Added quest_scroll - yep I drew the texture on this one too. What is it for? You'll figure out soon! Hopefully I'll complete one small questline before release owo 
+Added small questline - chapter: 0, 1, 2 quests: 0, 1, 2, 100, 101, 102, 110, 111, 112, 113, 114, 115, 116 - these quests may change so proceed with CAUTION!!
 
 
 
