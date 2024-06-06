@@ -452,6 +452,25 @@ Zetter Gallery — Share Paintings - May I see what you created, too?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Testing New Mods:]
+
+UPGRADE PACK NOTICE Changes from 0.1b04: [Save My Settings by DerplingDev] - replaces [Save Settings by vi945786] 
+
+"saves your settings so they don't reset after changing versions
+use /savesettings to save your settings"
+
+effectively changes to: 
+
+"Save My Settings is a client-side mod that saves your settings to a new file after you change them, 
+then when you load up a new modpack with this mod installed, it automatically applies those settings to the modpack!
+The saved options are copied to 'C:/Users/<your username>/SaveMySettings'"
+
+It's deleted/archived/I don't know (grumpy noises here). 
+You can still use the mod and copy it over from your old versions (put it in a separate folder, upgrade modpack, put it back in, make sure your friends do the same).
+It works fine but I cannot upload new pack versions with it anymore. (Because Curseforge doesnt want that, yay!)
+This is an attempt to fix the problem. 
+I'm sorry it can't be helped, unless somebody knows the dev and whether the mod was/is MIT license, then I just do a reupload on my side. Otherwise RIP.
+
+
 <empty> 
 Mob Drop Master - To control Mob and Xp drops
 Keep Command History - World crashed, lost your chat log? No problem, fixed. Doesn't work after you restarted the game. 
