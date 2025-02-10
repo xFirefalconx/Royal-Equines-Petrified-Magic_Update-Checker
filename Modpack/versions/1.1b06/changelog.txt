@@ -497,8 +497,8 @@ Autumn Day Furniture - First cute, here comes cozy furniture!
 Troubleshooting Multiplayer: 
 02.10.2025:
 - Added Essentials Mod
-- Disabled Unordinary basics
-
+- Disabled Unordinary basics - TODO test if it works somehow?
+- Disabled Rule Control (RC) - not necessarily needed
 
 
 
