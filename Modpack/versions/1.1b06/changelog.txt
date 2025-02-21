@@ -1,4 +1,4 @@
-Version [1.1b06] [02.10.2025]
+Version [1.1b06] [02.21.2025]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -499,6 +499,9 @@ Troubleshooting Multiplayer:
 - Added Essentials Mod
 - Disabled Unordinary basics - TODO test if it works somehow?
 - Disabled Rule Control (RC) - not necessarily needed
+
+
+Chunk by Chunk TODO unloading chunk function feasible anytime soon? Check back with dev
 
 
 
