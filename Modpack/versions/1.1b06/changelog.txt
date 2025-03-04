@@ -1,4 +1,4 @@
-Version [1.1b06] [02.28.2025]
+Version [1.1b06] [03.04.2025]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -534,7 +534,7 @@ GeForceLegend's 3D Default [Compatible +]
 Better Boats [Compatible +]
 Better Cats [Compatible +]
 Better Dogs [Compatible +]
-Better Farm Animals [Compatible +] [Quark/Maidens Merrymaking: Compatibility Resource pack created (Yep I drew new ones in Blockbench, just for ya!)]
+Better Farm Animals [Compatible +] [Quark/Maidens Merrymaking: Compatibility Resource pack created (Yep I drew new ones in Blockbench, just for ya!)[TODO Fix animations missing (if possible)]]
 Better Squid [Compatible +]
 
 Now compatible thanks to:
@@ -753,6 +753,8 @@ Edited Dynamic Surroundings keybind for sound settings to num lock key.
 Added Server configs for Dynamictrees to Defaultconfigs, upped voluntary seed drop percentage for living trees x5. Replace your save's config with the one from defaultconfigs to update old worlds.
 Moved Panoramica Hotkey to F6
 Changed FerriteCore populateNeighborTable = true - this increases RAM usage but a mod seems to need it to run. 
+Changed nest population rate of Untamed Wilds Burrows to 0% as 2% was overcrowiding loaded chunks with snakes and the like.
+Disabled AFK kick for SimpleAfk mod.
 
 [DEVNOTES]
 [todo]
@@ -811,6 +813,8 @@ Opening the settings of the mod that shows a GUI when pressing Alt and closing i
 Some tags are cooked, seems like I left the skillet too long on the stove. Whoops.
 And maaaybe the KubeJS scripts are not working correctly. I'm on it. 
 If you play on an older machine and your RAM is high, it might make your machine freeze during Sweep sessions, which is uh... annoying. DDR3 rigs are prone to that, mine does it often. Sadly can't fix that, try to not have other programs open when you play.
+If you use Essential to connect then your game will crash if you click on any Multiplayer related vanilla button. Press Esc in doubt. 
+If your game crashes there's a chance your resource packs are jumbled. Make a regular backup of your "options.txt" file!!!
 
 
 
