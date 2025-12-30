@@ -1,4 +1,4 @@
-Version [1.1b06] [03.04.2025]
+Version [1.1b06] [30.12.2025]
 
 [RESOLVED!] Debugging missing files on debug side? 
 [This might not affect you. Let me know if your ".README.TUTORIALS" folder happens to be missing, still/again.]
@@ -452,7 +452,10 @@ Zetter Gallery — Share Paintings - May I see what you created, too?
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Testing New Mods:]
+[Testing New Mods:] 
+Giddy Guinea Pigs - Giddy up! No, wrong line, sorry. 
+swem-addendum - This enables us to use custom resource packs for swem horses. 
+Sushi Go Crafting - I saw this in Ocean Block and had to add it :3 (Hi, Ocean Block players and devs \o/)
 
 UPGRADE PACK NOTICE Changes from 0.1b04: [Save My Settings by DerplingDev] - replaces [Save Settings by vi945786] 
 
@@ -667,8 +670,8 @@ video extension Fm [3.0+ and extensions crash, waiting for fix]]
 
 [Testing Update:]
 Multiplayer-Server-Pause 1.1.0 -> 1.3.2
-
-
+SWEM 1.3.0-15 -> 1.4.6 (requirement for addendum, SWEM please don't cause issues *prays*)
+Essential 1.3.5.7 -> 1.3.10.4    
 
 [Mod choice]"Female Villagers" 1.7a - Crash issue with "Villager Names" 7.0: incompatibility 
 [Daripher has to fix this, and unfortunately hasn't yet since the error is known. I will remove this notice if/once it's fixed for good.]
